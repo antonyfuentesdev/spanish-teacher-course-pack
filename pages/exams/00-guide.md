@@ -74,7 +74,7 @@ The 30-day retention check after a level pass (13.11 Gates §7, 6/10) is a diffe
 - <b>Pass 1:</b> right after the call, from the transcript, using the key and rubric on the level page. Write the scores and the Evidence block; Result stays "pending" and the learner is told: "I'll check my scoring tomorrow and give you your result then."
 - <b>Pass 2:</b> the next day, by the daily reconcile routine, from the transcript, key and rubric only. Score everything again without opening pass 1's scores, then compare.
 - <b>Rule:</b> if a group total differs by more than 5 points, or pass/fail differs (group or retention set), the lower result stands and the row is flagged "Passes disagree". Otherwise pass 1 stands and pass 2 goes in "Pass 2 total".
-- Note any single speaking or writing criterion that differs by 2 or more between passes in the Evidence block ("Calibration note"), even when the totals agree; these are kept for the monthly check.
+- Note any single speaking or writing criterion that differs by 2 or more between passes in the Evidence block ("Calibration note"), even when the totals agree; these are kept for the bot's own scoring-consistency review.
 - Only after pass 2 does the bot tell the learner the result, write the Milestones row (Level up / Badge, citing the Assessments ID) and update the percentages.
 
 ## 7. Results, records and retakes
