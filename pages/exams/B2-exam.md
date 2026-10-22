@@ -192,11 +192,11 @@ Puntos: expone los dos problemas, rechaza con cortesía, propone alternativas co
 10. ¿Cuándo votarán? → el 15 de noviembre (en la próxima reunión)
 
 <b>Tarea 3 (ítems 11–15).</b>
-> Esta semana en nuestro pódcast de viajes, Gabriela nos cuenta su peor experiencia en un aeropuerto. "Había llegado con tres horas de anticipación porque el vuelo era internacional. Cuando fui a facturar, la empleada me dijo que mi pasaporte vencía en cuatro meses y que el país al que iba exigía seis. Yo no lo sabía; nadie me lo había advertido al comprar el boleto. Tuve que cambiar el vuelo, pagar una multa y renovar el pasaporte en una semana. Si hubiera leído los requisitos, me habría ahorrado más de trescientos dólares. Desde entonces, reviso todo dos veces."
+> Esta semana en nuestro pódcast de viajes, Gabriela nos cuenta su peor experiencia en un aeropuerto. "Había llegado con tres horas de anticipación porque el vuelo era internacional. Cuando fui a documentar la maleta, la empleada me dijo que mi pasaporte vencía en cuatro meses y que el país al que iba exigía seis. Yo no lo sabía; nadie me lo había advertido al comprar el boleto. Tuve que cambiar el vuelo, pagar una multa y renovar el pasaporte en una semana. Si hubiera leído los requisitos, me habría ahorrado más de trescientos dólares. Desde entonces, reviso todo dos veces."
 
 11. ¿Con cuánta anticipación llegó? → tres horas
 12. ¿Cuál era el problema? → su pasaporte vencía en cuatro meses (exigían seis)
-13. ¿Quién debería haberle advertido, según ella? → nadie se lo advirtió al comprar el boleto / la agencia o aerolínea
+13. ¿Qué no le advirtieron al comprar el boleto? → que el pasaporte debía tener seis meses de vigencia (el país exigía seis)
 14. ¿Cuánto dinero perdió? a) cien dólares b) mil dólares c) más de trescientos dólares → c
 15. ¿Qué hace desde entonces? → revisa todo dos veces
 
@@ -389,10 +389,10 @@ Puntos: defiende su preferencia con razones, responde a objeciones, propone cond
 
 <b>Tarea 2 (ítems 6–10).</b>
 > Estimado señor Arce:\
-> Le escribo como inquilino del apartamento 302 del edificio que usted administra. Hace dos meses le informé por teléfono de que la calefacción del agua no funcionaba, y usted me aseguró que enviaría a un técnico esa misma semana. Desde entonces le he llamado cuatro veces sin respuesta. Mientras tanto, mi familia y yo hemos tenido que calentar agua en la cocina para bañarnos. Le recuerdo que el contrato establece que las reparaciones de este tipo corresponden al propietario. Si el problema no se resuelve antes del día 20, contrataré a un técnico por mi cuenta y descontaré el importe del próximo alquiler.\
+> Le escribo como inquilino del apartamento 302 del edificio que usted administra. Hace dos meses le informé por teléfono de que el calentador de agua no funcionaba, y usted me aseguró que enviaría a un técnico esa misma semana. Desde entonces le he llamado cuatro veces sin respuesta. Mientras tanto, mi familia y yo hemos tenido que calentar agua en la cocina para bañarnos. Le recuerdo que el contrato establece que las reparaciones de este tipo corresponden al propietario. Si el problema no se resuelve antes del día 20, contrataré a un técnico por mi cuenta y descontaré el importe del próximo alquiler.\
 > Atentamente,\
 > Diego Larrea
-6. ¿Qué no funciona? → la calefacción del agua
+6. ¿Qué no funciona? → el calentador de agua
 7. ¿Qué le aseguró el administrador? → que enviaría a un técnico esa semana
 8. ¿Cuántas veces ha llamado Diego desde entonces? → cuatro
 9. ¿Qué dice el contrato? a) las reparaciones corresponden al propietario b) el inquilino paga las reparaciones c) nada → a

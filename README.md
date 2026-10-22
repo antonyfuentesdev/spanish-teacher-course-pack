@@ -2,7 +2,9 @@
 
 Neutral Latin American Spanish course materials from A1 to C1. Topic pages ship Forms A–D plus exam papers for the Spanish Teacher bot to load over `raw.githubusercontent.com`.
 
-**Version:** v1.1 (2026-10-22). Changes from v1: the index page describes the manifest + SHA-256 checks; no monthly routine or check; no time range shown to learners; "Plan %" is now "Overall %".
+**Version:** v1.2 (2026-10-22). Changes from v1.1: fixes from the Oct 22 typed dry run (13.11 progress file title "Spanish Teacher progress", section headings and the empty file created at setup; City and Job or studies in the Profile; the skipped-placement row and its evidence; Encouragement milestones cite Sessions IDs; no fast-track for a self-declared beginner in A1.1; short first lesson and typed lesson defined; A1 gist questions stay in Spanish with an English gloss; the C1 cumulative plan total is 328 h, matching the per-topic hours; A1.1-1 materials per session) and the native-speaker spot check (Spain-only words replaced with Latin American ones, question/key fixes, unified test opener).
+
+**v1.1** (2026-10-22). Changes from v1: the index page describes the manifest + SHA-256 checks; the monthly pace check became a weekly pace check inside the weekly report (the one-month post-exam check remains); no time range shown to learners; "Plan %" is now "Overall %".
 
 ## How a bot should load this pack
 

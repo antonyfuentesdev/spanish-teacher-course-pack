@@ -131,6 +131,8 @@ Task points: drink, food, price question, bill, at least one por favor.
 > Sándwich de queso: 3,00 · Ensalada: 4,00 · Gallo pinto con huevo: 4,50\
 > Postre del día: 2,00 · Abierto todos los días de 7:00 a 15:00
 
+Prices use a decimal comma (CR, CO); MX and PA write a point. Accept either in answers (2,00 = 2.00).
+
 11. ¿Cuánto cuesta un café con leche? → 2,00
 12. ¿Qué plato cuesta 4,50? → gallo pinto con huevo
 13. ¿Cuánto cuestan un jugo y un sándwich? → 5,50
@@ -382,7 +384,7 @@ Task points: greeting, two prices, two items with quantity, pays / says thanks.
 
 <b>Task 2 (items 6–10).</b>
 > Hola, Paola:\
-> Gracias por la invitación a tu cumpleaños. ¡Claro que voy! Voy a llegar a las ocho porque trabajo hasta las siete. Voy con mi novio, Andrés. ¿Quieres un regalo especial? A mí me gusta mucho hacer pasteles: puedo llevar un pastel de chocolate. ¿Tu casa está cerca de la estación?\
+> Gracias por la invitación a tu cumpleaños. ¡Claro que voy! Voy a llegar a las ocho porque trabajo hasta las siete. Voy con mi novio, Andrés. ¿Qué quieres de regalo? A mí me gusta mucho hacer pasteles: puedo llevar un pastel de chocolate. ¿Tu casa está cerca de la estación?\
 > Un beso,\
 > Daniela
 

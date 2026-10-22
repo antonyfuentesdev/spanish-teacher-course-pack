@@ -18,7 +18,7 @@ Use the 13.9 §4 C1 anchors for the five criteria (Task achievement with mediati
 | Accuracy | Rare slips, self-corrects | Errors in complex structures, meaning clear | Errors in core structures that distort meaning |
 | Interaction | Handles questions and objections, concedes, persuades, repairs | Responds adequately, rarely steers | Needs constant prompting |
 
-Sample 5 (Task 1, mediation): "Lo que plantea el informe, en pocas palabras, es que la reducción del horario no afectó la productividad, aunque los propios autores reconocen que la muestra era pequeña; por mucho que los resultados parezcan prometedores, yo no me atrevería a generalizarlos." Sample 3: "El informe dice que reducir el horario no bajó la productividad. Pero la muestra es pequeña. Aunque los resultados son prometedores, no se puede generalizar." (accurate but linear, no concession structure in use, partly copied).
+Sample 5 (Task 1, mediation): "Lo que plantea el informe, en pocas palabras, es que la reducción del horario no afectó la productividad, aunque los propios autores reconocen que la muestra era pequeña; por mucho que los resultados parezcan prometedores, yo no me atrevería a generalizarlos." Sample 3: "El informe dice que reducir el horario no bajó la productividad. Pero la muestra es pequeña. Aunque los resultados son prometedores, no se puede generalizar." (accurate but linear; only a basic aunque + indicative concession; partly copied).
 
 ## Writing anchors (C1)
 
@@ -93,7 +93,7 @@ Word ranges: Task 1 (mediation) 180–220 words; Task 2 200–250 words. Two tas
 ### Expresión e interacción orales (25 puntos, 20 min de preparación + unos 20 min)
 
 <b>Tarea 1 — Exposición con mediación (5–6 min).</b> Contexto: "Trabajas en el área de personas de una empresa. Tu directora no ha leído este informe y te pide que se lo expliques en la reunión semanal y que des tu recomendación."
-> <b>Fuente (ficticia):</b> "Informe interno: piloto de jornada reducida. Durante seis meses, un equipo de 24 personas trabajó 32 horas semanales sin reducción de sueldo. La productividad, medida en proyectos entregados, se mantuvo estable; las bajas por enfermedad descendieron un 30 %. Sin embargo, los clientes se quejaron de que los viernes no había nadie disponible, y dos jefes de equipo reconocieron que trabajaban horas extra no registradas. Los autores advierten que la muestra es pequeña y que el equipo se ofreció voluntario, por lo que estaba especialmente motivado."
+> <b>Fuente (ficticia):</b> "Informe interno: piloto de jornada reducida. Durante seis meses, un equipo de 24 personas trabajó 32 horas semanales sin reducción de sueldo. La productividad, medida en proyectos entregados, se mantuvo estable; las ausencias por enfermedad descendieron un 30 %. Sin embargo, los clientes se quejaron de que los viernes no había nadie disponible, y dos jefes de equipo reconocieron que trabajaban horas extra no registradas. Los autores advierten que la muestra es pequeña y que el equipo se ofreció voluntario, por lo que estaba especialmente motivado."
 Puntos: propósito y diseño del piloto; resultados positivos; problemas; limitaciones del estudio; recomendación argumentada, adaptada a una directora (registro formal).
 
 <b>Tarea 2 — Conversación (6 preguntas, unos 8 min).</b>
@@ -111,7 +111,7 @@ Puntos: registro formal con suavizadores (quería pedirle, ¿sería posible…?)
 
 <b>Tarea 1 (ítems 1–5).</b> "Lee el artículo de opinión (autor ficticio)."
 > <b>Elogio del aburrimiento</b>\
-> Hubo un tiempo en que aburrirse era inevitable: las salas de espera, los viajes en bus, las tardes de domingo. Hoy basta un gesto para llenar cualquier hueco con una pantalla. Nadie echa de menos esos minutos muertos, y, sin embargo, cabe preguntarse qué perdimos con ellos. No pretendo idealizar el pasado —también se perdía mucho tiempo en colas absurdas—, pero sospecho que algunas de mis mejores ideas surgieron precisamente mientras miraba por la ventana sin hacer nada. El aburrimiento obligaba a la mente a fabricar su propio entretenimiento. Lo inquietante no es que tengamos el celular, sino que ya no soportemos estar sin él ni cinco minutos. Quizá la próxima vez que esperemos el ascensor podríamos, simplemente, esperar el ascensor. — Hugo Ledesma
+> Hubo un tiempo en que aburrirse era inevitable: las salas de espera, los viajes en bus, las tardes de domingo. Hoy basta un gesto para llenar cualquier hueco con una pantalla. Nadie extraña esos minutos muertos, y, sin embargo, cabe preguntarse qué perdimos con ellos. No pretendo idealizar el pasado —también se perdía mucho tiempo en colas absurdas—, pero sospecho que algunas de mis mejores ideas surgieron precisamente mientras miraba por la ventana sin hacer nada. El aburrimiento obligaba a la mente a fabricar su propio entretenimiento. Lo inquietante no es que tengamos el celular, sino que ya no soportemos estar sin él ni cinco minutos. Quizá la próxima vez que esperemos el ascensor podríamos, simplemente, esperar el ascensor. — Hugo Ledesma
 1. ¿Qué ha cambiado respecto al pasado, según el autor? → hoy cualquier hueco se llena con una pantalla
 2. ¿Idealiza el autor el pasado? → no (también se perdía tiempo en colas absurdas)
 3. ¿Qué relación ve entre aburrimiento e ideas? → algunas de sus mejores ideas surgieron cuando no hacía nada
@@ -138,7 +138,7 @@ Puntos: registro formal con suavizadores (quería pedirle, ¿sería posible…?)
 15. ¿Qué responde la municipalidad a las quejas? → que un segundo terreno se dedicará a vivienda social / las necesidades no son incompatibles
 
 <b>Tarea 4 (ítems 16–20).</b> "Lee el fragmento de relato."
-> Mi tía Eugenia tenía la costumbre de dar las malas noticias empezando por el clima. "Qué lindo amaneció", decía, y todos en la familia nos poníamos en guardia. Así anunció la venta de la finca, la boda de mi primo con una mujer a la que nadie conocía y su propio diagnóstico, que recibió con una calma que a los demás nos pareció casi ofensiva. "Para qué voy a ponerme triste, si ya habré tenido tiempo de sobra para eso", explicó. Vivió once años más, durante los cuales aprendió a pintar, viajó dos veces al mar y no volvió a mencionar el clima. Cuando murió, mi madre encontró en su cuaderno una sola línea: "Hoy amaneció lindo de verdad".
+> Mi tía Eugenia tenía la costumbre de dar las malas noticias empezando por el clima. "Qué lindo amaneció", decía, y todos en la familia nos poníamos en guardia. Así anunció la venta de la finca, la boda de mi primo con una mujer a la que nadie conocía y su propio diagnóstico, que recibió con una calma que a los demás nos pareció casi ofensiva. "Para qué voy a ponerme triste, si ya tendré tiempo de sobra para eso", explicó. Vivió once años más, durante los cuales aprendió a pintar, viajó dos veces al mar y no volvió a mencionar el clima. Cuando murió, mi madre encontró en su cuaderno una sola línea: "Hoy amaneció lindo de verdad".
 16. ¿Qué hacía la tía antes de dar una mala noticia? → hablaba del clima ("Qué lindo amaneció")
 17. ¿Cómo reaccionaba la familia? → se ponía en guardia
 18. ¿Cómo recibió ella su diagnóstico? → con mucha calma
@@ -161,7 +161,7 @@ Puntos: registro formal con suavizadores (quería pedirle, ¿sería posible…?)
 
 <b>Dictado (5 puntos).</b> "Por mucho que se hayan reducido los plazos, / la calidad del trabajo no debería verse afectada, / siempre y cuando se distribuyan las tareas / de forma equitativa / y se respeten los descansos." (31 words)
 
-<b>Tarea 1 — Mediación (20 puntos), 180–220 palabras.</b> "Tu comunidad de vecinos recibió este comunicado de la empresa de agua (ficticio). Muchos vecinos mayores no lo han entendido. Escribe un mensaje para el grupo de vecinos que explique, con claridad y en un registro cercano pero respetuoso, qué va a pasar, qué deben hacer y qué dudas quedan."
+<b>Tarea 1 — Mediación (20 puntos), 180–220 palabras.</b> "Tu junta de vecinos recibió este comunicado de la empresa de agua (ficticio). Muchos vecinos mayores no lo han entendido. Escribe un mensaje para el grupo de vecinos que explique, con claridad y en un registro cercano pero respetuoso, qué va a pasar, qué deben hacer y qué dudas quedan."
 > "Comunicado: Con motivo de las obras de renovación de la red de distribución, se procederá a la interrupción del suministro en el sector 4 los días 12, 13 y 14 de marzo, de 8:00 a 18:00. Se recomienda almacenar agua potable con antelación. Los usuarios con necesidades médicas que requieran suministro continuo deberán comunicarlo al número 800-AGUA antes del 5 de marzo para la asignación de un camión cisterna. Las facturas de marzo incluirán una bonificación proporcional. La empresa no se responsabiliza de los daños derivados de la falta de presión una vez restablecido el servicio."
 - Modelo (196 words): "Queridos vecinos: Les escribo para explicar el aviso de la empresa de agua, que está redactado de una forma un poco complicada. En resumen: van a cambiar las tuberías de nuestra zona y, por eso, no tendremos agua los días 12, 13 y 14 de marzo, de ocho de la mañana a seis de la tarde. Por las noches sí habrá agua. Lo más importante es que guarden agua para beber y cocinar antes del día 12; con unas botellas grandes por persona debería bastar. Si alguien de su casa necesita agua todo el tiempo por un tema de salud (por ejemplo, alguien que se hace diálisis en casa), tiene que llamar al 800-AGUA antes del 5 de marzo, y la empresa enviará un camión con agua. Si les cuesta llamar, avísenme y lo hago yo con ustedes. Una buena noticia: en la factura de marzo nos descontarán esos días. Lo que no queda claro es lo de la presión: la empresa dice que no se hace responsable si algo se daña cuando vuelva el agua. Por si acaso, les recomiendo abrir las llaves poco a poco. Cualquier duda, aquí estoy. Un saludo, Kim (apto. 2B)"
 
@@ -179,7 +179,7 @@ Puntos: registro formal con suavizadores (quería pedirle, ¿sería posible…?)
 2. "Sí, claro, porque a todos nos encanta trabajar el 24 de diciembre." (inferencia) — ¿Qué piensa realmente? a) está contento b) le da igual c) no le gusta nada → c
 3. "Dado que nadie se ha inscrito, el taller queda cancelado." — ¿Por qué se cancela el taller? → nadie se ha inscrito
 4. "Quien tenga dudas, que me escriba antes del jueves." — ¿Qué deben hacer las personas con dudas? → escribirle antes del jueves
-5. "Se puso pálida en cuanto leyó el mensaje." — ¿Cómo reaccionó? a) se asustó o se impresionó b) se rió c) se enfadó → a
+5. "Se puso pálida en cuanto leyó el mensaje." — ¿Cómo reaccionó? a) se asustó o se impresionó b) se rió c) se enojó → a
 <b>Tarea 2 (ítems 6–10).</b> "Una conversación entre socios."
 > <b>Inés:</b> Mira, te lo digo con cariño: si seguimos aceptando todos los encargos, nos vamos a quemar.\
 > <b>Bruno:</b> Lo sé, pero este cliente nos ha recomendado a otros tres. No podemos decirle que no.\
@@ -228,7 +228,7 @@ Puntos: registro formal con suavizadores (quería pedirle, ¿sería posible…?)
 ### Expresión e interacción orales (25 puntos, 20 min de preparación + unos 20 min)
 
 <b>Tarea 1 — Exposición con mediación.</b> Contexto: "Eres miembro de la asociación de padres de un colegio. Explica a los demás padres, en la reunión mensual, la propuesta que envió la dirección, y da tu valoración."
-> <b>Fuente (ficticia):</b> "Propuesta de la dirección: a partir del próximo curso, los estudiantes de secundaria entregarán sus celulares al entrar y los recuperarán al salir. Se instalarán casilleros con llave. Los padres que necesiten contactar con sus hijos lo harán a través de la secretaría. La medida responde a un aumento de los casos de acoso por redes en horario escolar (14 casos el año pasado frente a 5 el anterior, según el registro del colegio). La dirección propone evaluar la medida en junio con una encuesta a estudiantes, padres y profesores."
+> <b>Fuente (ficticia):</b> "Propuesta de la dirección: a partir del próximo año escolar, los estudiantes de secundaria entregarán sus celulares al entrar y los recuperarán al salir. Se instalarán casilleros con llave. Los padres que necesiten contactar con sus hijos lo harán a través de la secretaría. La medida responde a un aumento de los casos de acoso por redes en horario escolar (14 casos el año pasado frente a 5 el anterior, según el registro del colegio). La dirección propone evaluar la medida en junio con una encuesta a estudiantes, padres y profesores."
 Puntos: qué se propone y cómo funcionaría; la razón y el dato; cómo se comunicarían las familias; el plan de evaluación; valoración propia con concesión.
 
 <b>Tarea 2 — Conversación (6 preguntas).</b>
@@ -390,7 +390,7 @@ Puntos: suavizadores y fórmulas de cortesía, reconoce sus razones, explica las
 
 <b>Tarea 2 (ítems 6–10).</b>
 > Estimado Sr. Montoya:\
-> Acuso recibo de su queja del pasado 3 de abril, en la que nos comunicaba que el servicio de limpieza no había acudido a su oficina en dos ocasiones. En primer lugar, quisiera presentarle nuestras más sinceras disculpas. Tras revisar lo ocurrido, hemos comprobado que el error se debió a un cambio en el sistema de turnos que no se comunicó correctamente a nuestro personal. Para compensar las molestias, no le cobraremos el servicio de abril y le ofrecemos una limpieza a fondo gratuita en la fecha que usted elija. Asimismo, le he asignado un responsable directo, la Sra. Pineda, a quien podrá contactar sin pasar por la central.\
+> Acuso recibo de su queja del pasado 3 de abril, en la que nos comunicaba que el servicio de limpieza no había acudido a su oficina en dos ocasiones. En primer lugar, quisiera presentarle nuestras más sinceras disculpas. Tras revisar lo ocurrido, hemos comprobado que el error se debió a un cambio en el sistema de turnos que no se comunicó correctamente a nuestro personal. Para compensar las molestias, no le cobraremos el servicio de abril y le ofrecemos una limpieza a fondo gratuita en la fecha que usted elija. Asimismo, le he asignado una responsable directa, la Sra. Pineda, a quien podrá contactar sin pasar por la central.\
 > Atentamente,\
 > Javier Ruiz, Atención al Cliente
 6. ¿De qué se quejó el Sr. Montoya? → el servicio de limpieza no fue dos veces

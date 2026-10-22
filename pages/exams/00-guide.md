@@ -10,7 +10,7 @@ Read this when the learner becomes eligible (13.11 Gates §5), and again at the 
 
 At B1–C1 the bot says the same in Spanish (with the level's timings from §2), and repeats in English on request.
 
-At the start of every paper: "Ahora es una prueba." (A1–A2: "Now it's a short test: no hints until the end.") Then the paper's instructions, once, slowly.
+At the start of every paper: "Ahora viene el examen: sin pistas hasta el final." (A1–A2: "Now it's a short test: no hints until the end.") Then the paper's instructions, once, slowly.
 
 ## 2. Timings
 

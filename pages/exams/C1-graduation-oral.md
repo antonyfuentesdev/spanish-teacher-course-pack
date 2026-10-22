@@ -6,7 +6,7 @@ Modelled on the DELE C1 oral paper as summarized in 13.9 §4 (presentation with 
 
 | Step | Time | What happens |
 | --- | --- | --- |
-| Before | — | The bot reads in Spanish (English on request): "Vas a tener 20 minutos para preparar. Puedes tomar notas, pero no leer un texto escrito. Después hablaremos unos 20 minutos, en tres tareas. No hay ayudas durante el examen. El resultado te lo doy mañana, después de revisar mi evaluación." Then "Ahora es una prueba." |
+| Before | — | The bot reads in Spanish (English on request): "Vas a tener 20 minutos para preparar. Puedes tomar notas, pero no leer un texto escrito. Después hablaremos unos 20 minutos, en tres tareas. No hay ayudas durante el examen. El resultado te lo doy mañana, después de revisar mi evaluación." Then "Ahora viene el examen: sin pistas hasta el final." |
 | Preparation | 20 min | The learner receives the source (narrated by the bot, twice, at natural speed; on the typed track it is also shown in chat) and the Task 1 and Task 3 cards. Notes allowed; no dictionary or other help. |
 | Task 1 | 3–5 min talk + about 3 min questions | Presentation with mediation: explain the source to the stated audience and give an organized position. Then the bot asks the 3 fixed follow-up questions. |
 | Task 2 | about 6 min | Interview on the same topic: the bot asks the fixed questions (opinion, hypothesis, defending a view against a counter-argument). One follow-up per question is allowed ("¿Por qué?", "¿Podrías dar un ejemplo?"). |

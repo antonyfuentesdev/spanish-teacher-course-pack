@@ -356,7 +356,7 @@ Task points: suggests a place, reacts to the counter-idea with an opinion, agree
 <b>Task 5 (items 21–25).</b>
 > Les cuento mi opinión sobre las redes sociales. Creo que son útiles para hablar con la familia: mis papás viven lejos y los veo por videollamada cada domingo. Pero me parece que pasamos demasiado tiempo con el celular. A mí me preocupa mi hijo de doce años: pasa tres horas al día en el teléfono. Este mes vamos a probar una regla nueva: nada de celulares durante la cena.
 
-21. ¿Para qué son útiles las redes, según ella? → para hablar con la familia
+21. ¿Para qué son útiles las redes, según el texto? → para hablar con la familia
 22. ¿Cuándo ve a sus papás por videollamada? → cada domingo
 23. ¿Qué le preocupa? → su hijo / el tiempo que su hijo pasa en el teléfono
 24. ¿Cuántas horas al día usa el teléfono su hijo? a) dos b) tres c) cinco → b
@@ -415,12 +415,12 @@ Task points: who and gustar-type preference (le encanta…), asks about options,
 15. ¿Cuánto más cuesta Club Verde que Zona Activa? → 15 dólares
 
 <b>Task 4 (items 16–20).</b>
-> Querido diario: Hoy ha sido un día raro. Por la mañana he perdido el bus y he llegado tarde al trabajo. Mi jefa no ha dicho nada, ¡qué suerte! A mediodía he almorzado con una compañera nueva, Sofía, que es muy simpática. Por la tarde ha llovido mucho y no he ido al gimnasio. Esta noche pienso ver una película y acostarme temprano.
+> Querido diario: Hoy fue un día raro. Por la mañana perdí el bus y llegué tarde al trabajo. Mi jefa no dijo nada, ¡qué suerte! A mediodía almorcé con una compañera nueva, Sofía, que es muy simpática. Por la tarde llovió mucho y no fui al gimnasio. Esta noche pienso ver una película y acostarme temprano.
 
-16. ¿Por qué ha llegado tarde? → ha perdido el bus
-17. ¿Qué ha dicho la jefa? → nada
-18. ¿Con quién ha almorzado? → con Sofía / una compañera nueva
-19. ¿Por qué no ha ido al gimnasio? a) ha llovido mucho b) está cansada c) ha trabajado tarde → a
+16. ¿Por qué llegó tarde? → perdió el bus
+17. ¿Qué dijo la jefa? → nada
+18. ¿Con quién almorzó? → con Sofía / una compañera nueva
+19. ¿Por qué no fue al gimnasio? a) llovió mucho b) estaba cansado/a c) trabajó tarde → a
 20. ¿Qué piensa hacer esta noche? → ver una película / acostarse temprano (either)
 
 <b>Task 5 (items 21–25).</b>
