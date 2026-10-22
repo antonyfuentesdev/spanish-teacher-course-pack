@@ -28,6 +28,4 @@ https://ringed-sombrero-50c.notion.site/4011414f7879816f8df2c37420a9d85f
 
 ## Licence
 
-All rights reserved; free to use with the Spanish Teacher bot.
-
-_(Placeholder licence line, pending the owner's final choice.)_
+This course pack is licensed under the [Creative Commons Attribution 4.0 International licence (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/). You may share and adapt it for any purpose, including commercially, as long as you give credit ("Spanish Teacher Course Pack by Antony Fuentes"), link to the licence and say what you changed. See [`LICENSE`](LICENSE).
