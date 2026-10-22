@@ -1,37 +1,37 @@
 {
- "version": "v1.4",
+ "version": "v1.4.1",
  "date": "2026-10-22",
  "repo": "antonyfuentesdev/spanish-teacher-course-pack",
- "tag": "v1.4",
+ "tag": "v1.4.1",
  "manifest_latest": "https://raw.githubusercontent.com/antonyfuentesdev/spanish-teacher-course-pack/main/manifest.json",
- "raw_base": "https://raw.githubusercontent.com/antonyfuentesdev/spanish-teacher-course-pack/v1.4",
+ "raw_base": "https://raw.githubusercontent.com/antonyfuentesdev/spanish-teacher-course-pack/v1.4.1",
  "page_count": 72,
  "licence": "CC BY-NC 4.0 (https://creativecommons.org/licenses/by-nc/4.0/); credit: Spanish Teacher Course Pack by Antony Fuentes; commercial use requires the author's permission",
- "changes": "v1.4 (2026-10-22): standard object pronouns instead of leísmo (B2 exam reading: \"lo he llamado\" to señor Arce and \"le informé por teléfono que\"; C1.1-1 \"¿qué lo/la llevó a…?\" by the referent's gender, the model dialogue rewritten as \"¿Qué motivó ese cambio?\" and the key accepting both; C1.1-2 key \"lo van a operar\"; B1 exam voicemail \"Le dejo este mensaje\" and C1 exam role-play \"Me comunico con usted\" where the listener's gender is unknown; C1.1-3 key models llamarlo / llamarla and still accepts llamarle as regional); 13.1 notes that 650–800 h is the external research benchmark and the course frame is 328 guided lesson hours, about 1–2 years at 6 h a week. v1.3 (2026-10-22): GitHub is now the only home of the pack: the Notion reading copy is retired, so the Notion landing-page entry, page IDs and public Notion links are removed from the manifest and the index page (72 entries, all files); index page lists repo paths; learning plan overview no longer offers a rough time range (matches 13.11: no time ranges, even when asked); 13.1 states the lesson core as 328 h only; README release steps describe the protected-main PR flow. v1.2 (2026-10-22): Oct 22 typed dry-run fixes (13.11 file title, section headings, empty file at setup, City and Job or studies in Profile, skipped-placement row, Encouragement milestones cite Sessions IDs, no A1.1 fast-track for self-declared beginners, short first lesson and typed lesson, A1 gist questions in Spanish with English gloss, C1 cumulative 328 h in 13.1, A1.1-1 materials per session) and native-speaker spot-check fixes (Spain-only vocabulary, question/key fixes, unified test opener). v1.1 (2026-10-22): index page describes manifest + SHA-256 checks; monthly pace check became a weekly pace check inside the weekly report (the one-month post-exam check remains); no learner-facing time range; Plan % renamed Overall %",
+ "changes": "v1.4.1 (2026-10-22): removed named external sources. v1.4 (2026-10-22): standard object pronouns instead of leísmo (B2 exam reading: \"lo he llamado\" to señor Arce and \"le informé por teléfono que\"; C1.1-1 \"¿qué lo/la llevó a…?\" by the referent's gender, the model dialogue rewritten as \"¿Qué motivó ese cambio?\" and the key accepting both; C1.1-2 key \"lo van a operar\"; B1 exam voicemail \"Le dejo este mensaje\" and C1 exam role-play \"Me comunico con usted\" where the listener's gender is unknown; C1.1-3 key models llamarlo / llamarla and still accepts llamarle as regional); 13.1 notes that 650–800 h is the external research benchmark and the course frame is 328 guided lesson hours, about 1–2 years at 6 h a week. v1.3 (2026-10-22): GitHub is now the only home of the pack: the Notion reading copy is retired, so the Notion landing-page entry, page IDs and public Notion links are removed from the manifest and the index page (72 entries, all files); index page lists repo paths; learning plan overview no longer offers a rough time range (matches 13.11: no time ranges, even when asked); 13.1 states the lesson core as 328 h only; README release steps describe the protected-main PR flow. v1.2 (2026-10-22): Oct 22 typed dry-run fixes (13.11 file title, section headings, empty file at setup, City and Job or studies in Profile, skipped-placement row, Encouragement milestones cite Sessions IDs, no A1.1 fast-track for self-declared beginners, short first lesson and typed lesson, A1 gist questions in Spanish with English gloss, C1 cumulative 328 h in 13.1, A1.1-1 materials per session) and native-speaker spot-check fixes (Spain-only vocabulary, question/key fixes, unified test opener). v1.1 (2026-10-22): index page describes manifest + SHA-256 checks; monthly pace check became a weekly pace check inside the weekly report (the one-month post-exam check remains); no learner-facing time range; Plan % renamed Overall %",
  "pages": [
   {
-   "title": "Index and manifest (v1.4)",
+   "title": "Index and manifest (v1.4.1)",
    "section": "root",
    "file": "pages/00-index-manifest.md",
-   "raw_url": "https://raw.githubusercontent.com/antonyfuentesdev/spanish-teacher-course-pack/v1.4/pages/00-index-manifest.md",
-   "bytes": 11809,
-   "sha256": "1015e0f75e06957b0ced08b968c29e23ed31e072eb5df57e70e335ca58d294ea",
+   "raw_url": "https://raw.githubusercontent.com/antonyfuentesdev/spanish-teacher-course-pack/v1.4.1/pages/00-index-manifest.md",
+   "bytes": 11815,
+   "sha256": "c1842705866efb8f5aaeb0cfb0ade01cc5603c63710833989697e096e1a09a31",
    "ends_with": "Pass with distinction (pending pass 2)"
   },
   {
    "title": "Learning plan overview",
    "section": "root",
    "file": "pages/01-learning-plan-overview.md",
-   "raw_url": "https://raw.githubusercontent.com/antonyfuentesdev/spanish-teacher-course-pack/v1.4/pages/01-learning-plan-overview.md",
-   "bytes": 17625,
-   "sha256": "97253e5ecb4a6a710cc1b65c08f0548e1c324724413da322d12fff72f0d33149",
+   "raw_url": "https://raw.githubusercontent.com/antonyfuentesdev/spanish-teacher-course-pack/v1.4.1/pages/01-learning-plan-overview.md",
+   "bytes": 17179,
+   "sha256": "ec06e3bb3cd3ec84cf14262666cfd61fb5dea39a3de3410c5577c4b578737f0b",
    "ends_with": "the bot never announces it earlier"
   },
   {
    "title": "Course rules (13.1–13.11)",
    "section": "root",
    "file": "containers/rules.md",
-   "raw_url": "https://raw.githubusercontent.com/antonyfuentesdev/spanish-teacher-course-pack/v1.4/containers/rules.md",
+   "raw_url": "https://raw.githubusercontent.com/antonyfuentesdev/spanish-teacher-course-pack/v1.4.1/containers/rules.md",
    "bytes": 176,
    "sha256": "fa47ff2f3e25bf135e69797ffd3a87b52f01384606246d3d9e94b6a9c708e27b",
    "ends_with": "13.11 Progress tracking"
@@ -40,7 +40,7 @@
    "title": "13.12 Topic materials",
    "section": "root",
    "file": "containers/topics.md",
-   "raw_url": "https://raw.githubusercontent.com/antonyfuentesdev/spanish-teacher-course-pack/v1.4/containers/topics.md",
+   "raw_url": "https://raw.githubusercontent.com/antonyfuentesdev/spanish-teacher-course-pack/v1.4.1/containers/topics.md",
    "bytes": 369,
    "sha256": "7944ff0b76dc6a6a11b2ade99b8f36317ec7d7ab1a01e9e544efaf7e05f91dcb",
    "ends_with": "C1.4-12 Dele que DELE. El humor. El DELE C1"
@@ -49,7 +49,7 @@
    "title": "13.13 Exam papers",
    "section": "root",
    "file": "containers/exams.md",
-   "raw_url": "https://raw.githubusercontent.com/antonyfuentesdev/spanish-teacher-course-pack/v1.4/containers/exams.md",
+   "raw_url": "https://raw.githubusercontent.com/antonyfuentesdev/spanish-teacher-course-pack/v1.4.1/containers/exams.md",
    "bytes": 308,
    "sha256": "fca5d2428b4c73b142a0f7d5d5cd4bc4f4291ae0508e565a8676cf0d07891d75",
    "ends_with": "C1 graduation oral"
@@ -58,16 +58,16 @@
    "title": "13.1 Syllabus",
    "section": "rules",
    "file": "pages/rules/13.1-syllabus.md",
-   "raw_url": "https://raw.githubusercontent.com/antonyfuentesdev/spanish-teacher-course-pack/v1.4/pages/rules/13.1-syllabus.md",
-   "bytes": 22080,
-   "sha256": "dbf412da9fabad4b2bbd252dc8d068ea8c3a20854eea38e47fee26c6c6ac71ca",
+   "raw_url": "https://raw.githubusercontent.com/antonyfuentesdev/spanish-teacher-course-pack/v1.4.1/pages/rules/13.1-syllabus.md",
+   "bytes": 21636,
+   "sha256": "7be1f3bd5d70380b1e3bdb5c3624fa9c86ce638ab8b68a09df2e3b6dc61b7aa4",
    "ends_with": "session 1 of A1.1-3 with commentary)."
   },
   {
    "title": "13.2 Topic format",
    "section": "rules",
    "file": "pages/rules/13.2-topic-template.md",
-   "raw_url": "https://raw.githubusercontent.com/antonyfuentesdev/spanish-teacher-course-pack/v1.4/pages/rules/13.2-topic-template.md",
+   "raw_url": "https://raw.githubusercontent.com/antonyfuentesdev/spanish-teacher-course-pack/v1.4.1/pages/rules/13.2-topic-template.md",
    "bytes": 12255,
    "sha256": "0748b72b8caa8d222c0ae27e8ff4ebab55a594d8a83e1463cae15fcbd49c77ba",
    "ends_with": "- One variety throughout"
@@ -76,7 +76,7 @@
    "title": "13.3 Worked example: A1",
    "section": "rules",
    "file": "pages/rules/13.3-worked-example-a1.md",
-   "raw_url": "https://raw.githubusercontent.com/antonyfuentesdev/spanish-teacher-course-pack/v1.4/pages/rules/13.3-worked-example-a1.md",
+   "raw_url": "https://raw.githubusercontent.com/antonyfuentesdev/spanish-teacher-course-pack/v1.4.1/pages/rules/13.3-worked-example-a1.md",
    "bytes": 8785,
    "sha256": "05705011e0dd492e9d9fcffaf5a3b3c042c71e99b0bf3a38696aeb18461eba9a",
    "ends_with": "the row is written (13.9 6)."
@@ -85,7 +85,7 @@
    "title": "13.4 Worked example: A2",
    "section": "rules",
    "file": "pages/rules/13.4-worked-example-a2.md",
-   "raw_url": "https://raw.githubusercontent.com/antonyfuentesdev/spanish-teacher-course-pack/v1.4/pages/rules/13.4-worked-example-a2.md",
+   "raw_url": "https://raw.githubusercontent.com/antonyfuentesdev/spanish-teacher-course-pack/v1.4.1/pages/rules/13.4-worked-example-a2.md",
    "bytes": 3805,
    "sha256": "3a3ffffc4086fd111168e5a894115825d0605b4304f0d05beb30c7c4d4fe53e9",
    "ends_with": "errors go to the error log"
@@ -94,7 +94,7 @@
    "title": "13.5 Worked example: B1",
    "section": "rules",
    "file": "pages/rules/13.5-worked-example-b1.md",
-   "raw_url": "https://raw.githubusercontent.com/antonyfuentesdev/spanish-teacher-course-pack/v1.4/pages/rules/13.5-worked-example-b1.md",
+   "raw_url": "https://raw.githubusercontent.com/antonyfuentesdev/spanish-teacher-course-pack/v1.4.1/pages/rules/13.5-worked-example-b1.md",
    "bytes": 4259,
    "sha256": "525356c34af9e4efde7142aae6fc15b9df6317a8fc41d9cd74a59b8dca7ca032",
    "ends_with": "errors go to the error log"
@@ -103,7 +103,7 @@
    "title": "13.6 Worked example: B2",
    "section": "rules",
    "file": "pages/rules/13.6-worked-example-b2.md",
-   "raw_url": "https://raw.githubusercontent.com/antonyfuentesdev/spanish-teacher-course-pack/v1.4/pages/rules/13.6-worked-example-b2.md",
+   "raw_url": "https://raw.githubusercontent.com/antonyfuentesdev/spanish-teacher-course-pack/v1.4.1/pages/rules/13.6-worked-example-b2.md",
    "bytes": 4083,
    "sha256": "d496ec9e59933f51d4aa8c768b7e0eadb59082b98ca451b35ffa3deb9d0eb2be",
    "ends_with": "errors go to the error log"
@@ -112,7 +112,7 @@
    "title": "13.7 Worked example: C1",
    "section": "rules",
    "file": "pages/rules/13.7-worked-example-c1.md",
-   "raw_url": "https://raw.githubusercontent.com/antonyfuentesdev/spanish-teacher-course-pack/v1.4/pages/rules/13.7-worked-example-c1.md",
+   "raw_url": "https://raw.githubusercontent.com/antonyfuentesdev/spanish-teacher-course-pack/v1.4.1/pages/rules/13.7-worked-example-c1.md",
    "bytes": 4350,
    "sha256": "ba7d64b465fb63dc05d7376fd481c44d6448682de9613b325ae4e87be261f10f",
    "ends_with": "errors go to the error log"
@@ -121,7 +121,7 @@
    "title": "13.8 Teaching notes",
    "section": "rules",
    "file": "pages/rules/13.8-teaching-notes.md",
-   "raw_url": "https://raw.githubusercontent.com/antonyfuentesdev/spanish-teacher-course-pack/v1.4/pages/rules/13.8-teaching-notes.md",
+   "raw_url": "https://raw.githubusercontent.com/antonyfuentesdev/spanish-teacher-course-pack/v1.4.1/pages/rules/13.8-teaching-notes.md",
    "bytes": 10833,
    "sha256": "64c08a16084e3dfc9ebde7a985bf9e716ca26177e71e620421ee0075b87bb0a5",
    "ends_with": "and reported for feedback only (13.9)"
@@ -130,16 +130,16 @@
    "title": "13.9 Rubrics",
    "section": "rules",
    "file": "pages/rules/13.9-rubrics.md",
-   "raw_url": "https://raw.githubusercontent.com/antonyfuentesdev/spanish-teacher-course-pack/v1.4/pages/rules/13.9-rubrics.md",
-   "bytes": 21629,
-   "sha256": "e6aa222a7cd724c81edacd38621ce2ef4c3bc35793d28cff5772ba6eec03a9ca",
+   "raw_url": "https://raw.githubusercontent.com/antonyfuentesdev/spanish-teacher-course-pack/v1.4.1/pages/rules/13.9-rubrics.md",
+   "bytes": 21324,
+   "sha256": "348f79cfcf861fc3bead5aa8d48c28fcb79deccc3ab6fa17e4182b55c27f2b19",
    "ends_with": "or graduation without them is invalid"
   },
   {
    "title": "13.10 Spaced review schedule",
    "section": "rules",
    "file": "pages/rules/13.10-spaced-review-schedule.md",
-   "raw_url": "https://raw.githubusercontent.com/antonyfuentesdev/spanish-teacher-course-pack/v1.4/pages/rules/13.10-spaced-review-schedule.md",
+   "raw_url": "https://raw.githubusercontent.com/antonyfuentesdev/spanish-teacher-course-pack/v1.4.1/pages/rules/13.10-spaced-review-schedule.md",
    "bytes": 5954,
    "sha256": "168a712ac2c9afcfcd309499d45285e4a2195fbe88708de9d95a495075d66d1f",
    "ends_with": "into the queue at step 1"
@@ -148,7 +148,7 @@
    "title": "13.11 Progress tracking",
    "section": "rules",
    "file": "pages/rules/13.11-progress-tracking.md",
-   "raw_url": "https://raw.githubusercontent.com/antonyfuentesdev/spanish-teacher-course-pack/v1.4/pages/rules/13.11-progress-tracking.md",
+   "raw_url": "https://raw.githubusercontent.com/antonyfuentesdev/spanish-teacher-course-pack/v1.4.1/pages/rules/13.11-progress-tracking.md",
    "bytes": 33164,
    "sha256": "717a6797a681817d5d61a7ec791a370c982bf5058cf961225c31a07fbdefac5d",
    "ends_with": "Both appear in the weekly summary"
@@ -157,7 +157,7 @@
    "title": "Administration and scoring guide",
    "section": "exams",
    "file": "pages/exams/00-guide.md",
-   "raw_url": "https://raw.githubusercontent.com/antonyfuentesdev/spanish-teacher-course-pack/v1.4/pages/exams/00-guide.md",
+   "raw_url": "https://raw.githubusercontent.com/antonyfuentesdev/spanish-teacher-course-pack/v1.4.1/pages/exams/00-guide.md",
    "bytes": 10770,
    "sha256": "72d24b5163502e26c6df629484340374ffdc65605c06f24a9e279f16aa137848",
    "ends_with": "texts are never reused in lessons."
@@ -166,7 +166,7 @@
    "title": "Placement test",
    "section": "exams",
    "file": "pages/exams/Placement.md",
-   "raw_url": "https://raw.githubusercontent.com/antonyfuentesdev/spanish-teacher-course-pack/v1.4/pages/exams/Placement.md",
+   "raw_url": "https://raw.githubusercontent.com/antonyfuentesdev/spanish-teacher-course-pack/v1.4.1/pages/exams/Placement.md",
    "bytes": 9870,
    "sha256": "59f77fe17a41593984ba308a5ae1c8e251267dfbe77d13b3b818ae06161a4049",
    "ends_with": "- Clip 2 (0/1): no sé"
@@ -175,7 +175,7 @@
    "title": "A1 exam papers",
    "section": "exams",
    "file": "pages/exams/A1-exam.md",
-   "raw_url": "https://raw.githubusercontent.com/antonyfuentesdev/spanish-teacher-course-pack/v1.4/pages/exams/A1-exam.md",
+   "raw_url": "https://raw.githubusercontent.com/antonyfuentesdev/spanish-teacher-course-pack/v1.4.1/pages/exams/A1-exam.md",
    "bytes": 27404,
    "sha256": "5cc870e85c6ae344976bf47c143b02ee276c06ed67ed937db147128f2839b559",
    "ends_with": "¿Puedes ir Escríbeme. Un abrazo, Sam"
@@ -184,7 +184,7 @@
    "title": "A2 exam papers",
    "section": "exams",
    "file": "pages/exams/A2-exam.md",
-   "raw_url": "https://raw.githubusercontent.com/antonyfuentesdev/spanish-teacher-course-pack/v1.4/pages/exams/A2-exam.md",
+   "raw_url": "https://raw.githubusercontent.com/antonyfuentesdev/spanish-teacher-course-pack/v1.4.1/pages/exams/A2-exam.md",
    "bytes": 30651,
    "sha256": "805c2e3592a834f9cd41b9cc4800a36d54a860af0c50e5cbcacbfd21f86f9138",
    "ends_with": "porque por la noche hace frío."
@@ -193,7 +193,7 @@
    "title": "B1 exam papers",
    "section": "exams",
    "file": "pages/exams/B1-exam.md",
-   "raw_url": "https://raw.githubusercontent.com/antonyfuentesdev/spanish-teacher-course-pack/v1.4/pages/exams/B1-exam.md",
+   "raw_url": "https://raw.githubusercontent.com/antonyfuentesdev/spanish-teacher-course-pack/v1.4.1/pages/exams/B1-exam.md",
    "bytes": 39998,
    "sha256": "11bc62bc5ea5fed2a18587154414d78ab6cfda3e3153107b06c37ccd9f638b6b",
    "ends_with": "cómo te va. Un abrazo, Dani"
@@ -202,7 +202,7 @@
    "title": "B2 exam papers",
    "section": "exams",
    "file": "pages/exams/B2-exam.md",
-   "raw_url": "https://raw.githubusercontent.com/antonyfuentesdev/spanish-teacher-course-pack/v1.4/pages/exams/B2-exam.md",
+   "raw_url": "https://raw.githubusercontent.com/antonyfuentesdev/spanish-teacher-course-pack/v1.4.1/pages/exams/B2-exam.md",
    "bytes": 48819,
    "sha256": "646903c99748715c5940a14c8767ff32afdae3fb16f8b0ef775ba5cede8e703e",
    "ends_with": "conexiones y una escuela cerca. Iris"
@@ -211,7 +211,7 @@
    "title": "C1 exam papers",
    "section": "exams",
    "file": "pages/exams/C1-exam.md",
-   "raw_url": "https://raw.githubusercontent.com/antonyfuentesdev/spanish-teacher-course-pack/v1.4/pages/exams/C1-exam.md",
+   "raw_url": "https://raw.githubusercontent.com/antonyfuentesdev/spanish-teacher-course-pack/v1.4.1/pages/exams/C1-exam.md",
    "bytes": 59569,
    "sha256": "c10ffa1d9ab91886a5eadcc00d6524857db6acd187ff10de70b7b8fac430a138",
    "ends_with": "lo decida por nosotros. Ana Kowalski"
@@ -220,7 +220,7 @@
    "title": "C1 graduation oral",
    "section": "exams",
    "file": "pages/exams/C1-graduation-oral.md",
-   "raw_url": "https://raw.githubusercontent.com/antonyfuentesdev/spanish-teacher-course-pack/v1.4/pages/exams/C1-graduation-oral.md",
+   "raw_url": "https://raw.githubusercontent.com/antonyfuentesdev/spanish-teacher-course-pack/v1.4.1/pages/exams/C1-graduation-oral.md",
    "bytes": 16845,
    "sha256": "729c6a1f9a7f8b9c9e1e9c9647b2692de1bc405b90da7ae39b8605a2f34a4c84",
    "ends_with": "Pass with distinction (pending pass 2)"
@@ -231,7 +231,7 @@
    "level": "A1",
    "code": "A1.1-1",
    "file": "pages/topics/A1.1-1.md",
-   "raw_url": "https://raw.githubusercontent.com/antonyfuentesdev/spanish-teacher-course-pack/v1.4/pages/topics/A1.1-1.md",
+   "raw_url": "https://raw.githubusercontent.com/antonyfuentesdev/spanish-teacher-course-pack/v1.4.1/pages/topics/A1.1-1.md",
    "bytes": 20596,
    "sha256": "ac7a7135ff9707203356ef636d3d4dc2b2466a4250a3e6c052a6a1860bf0bb2d",
    "ends_with": "/ i griega vary; accept both."
@@ -242,7 +242,7 @@
    "level": "A1",
    "code": "A1.1-2",
    "file": "pages/topics/A1.1-2.md",
-   "raw_url": "https://raw.githubusercontent.com/antonyfuentesdev/spanish-teacher-course-pack/v1.4/pages/topics/A1.1-2.md",
+   "raw_url": "https://raw.githubusercontent.com/antonyfuentesdev/spanish-teacher-course-pack/v1.4.1/pages/topics/A1.1-2.md",
    "bytes": 16665,
    "sha256": "5084615f1dd2278cb693415a877ba7f7358f46f80e6741ab96bf51de02963b02",
    "ends_with": "de eso and switches to friends."
@@ -253,7 +253,7 @@
    "level": "A1",
    "code": "A1.1-3",
    "file": "pages/topics/A1.1-3.md",
-   "raw_url": "https://raw.githubusercontent.com/antonyfuentesdev/spanish-teacher-course-pack/v1.4/pages/topics/A1.1-3.md",
+   "raw_url": "https://raw.githubusercontent.com/antonyfuentesdev/spanish-teacher-course-pack/v1.4.1/pages/topics/A1.1-3.md",
    "bytes": 20185,
    "sha256": "4f20460668edede8581b478a76b6e1e0ea81cd990cf7f092dabca91f19c9dad6",
    "ends_with": "0–20; they are not price information."
@@ -264,7 +264,7 @@
    "level": "A1",
    "code": "A1.2-4",
    "file": "pages/topics/A1.2-4.md",
-   "raw_url": "https://raw.githubusercontent.com/antonyfuentesdev/spanish-teacher-course-pack/v1.4/pages/topics/A1.2-4.md",
+   "raw_url": "https://raw.githubusercontent.com/antonyfuentesdev/spanish-teacher-course-pack/v1.4.1/pages/topics/A1.2-4.md",
    "bytes": 16858,
    "sha256": "aa048b706acc6cd9f6cbfa564ab353dd52003f9d840392869566f20f60044db8",
    "ends_with": "norte de ) are awareness only."
@@ -275,7 +275,7 @@
    "level": "A1",
    "code": "A1.2-5",
    "file": "pages/topics/A1.2-5.md",
-   "raw_url": "https://raw.githubusercontent.com/antonyfuentesdev/spanish-teacher-course-pack/v1.4/pages/topics/A1.2-5.md",
+   "raw_url": "https://raw.githubusercontent.com/antonyfuentesdev/spanish-teacher-course-pack/v1.4.1/pages/topics/A1.2-5.md",
    "bytes": 16860,
    "sha256": "9a8de3deb1848af7eaa27eb39aa14e17d3ee82446d30321177e272e2757641ef",
    "ends_with": "in Mexico vs almorzar : labelled."
@@ -286,7 +286,7 @@
    "level": "A1",
    "code": "A1.2-6",
    "file": "pages/topics/A1.2-6.md",
-   "raw_url": "https://raw.githubusercontent.com/antonyfuentesdev/spanish-teacher-course-pack/v1.4/pages/topics/A1.2-6.md",
+   "raw_url": "https://raw.githubusercontent.com/antonyfuentesdev/spanish-teacher-course-pack/v1.4.1/pages/topics/A1.2-6.md",
    "bytes": 16997,
    "sha256": "fbd9a3ea7adc03e626033c7de2648746298dd6ca65aa0b3e9517d3526d3b200e",
    "ends_with": "11. Notes and sources"
@@ -297,7 +297,7 @@
    "level": "A2",
    "code": "A2.1-1",
    "file": "pages/topics/A2.1-1.md",
-   "raw_url": "https://raw.githubusercontent.com/antonyfuentesdev/spanish-teacher-course-pack/v1.4/pages/topics/A2.1-1.md",
+   "raw_url": "https://raw.githubusercontent.com/antonyfuentesdev/spanish-teacher-course-pack/v1.4.1/pages/topics/A2.1-1.md",
    "bytes": 16210,
    "sha256": "ece7201e18fc8e2fe3f06a852695f2766d4306fe5b73af9e94184914765a7bea",
    "ends_with": "Costa Rica ). Confirmed Oct 2026."
@@ -308,7 +308,7 @@
    "level": "A2",
    "code": "A2.1-2",
    "file": "pages/topics/A2.1-2.md",
-   "raw_url": "https://raw.githubusercontent.com/antonyfuentesdev/spanish-teacher-course-pack/v1.4/pages/topics/A2.1-2.md",
+   "raw_url": "https://raw.githubusercontent.com/antonyfuentesdev/spanish-teacher-course-pack/v1.4.1/pages/topics/A2.1-2.md",
    "bytes": 16348,
    "sha256": "7a3791924c92275c3802e806dad82cc3f000ca8333a40b4436812cde8f17bf32",
    "ends_with": "as chunks here; taught at B1.2-6."
@@ -319,7 +319,7 @@
    "level": "A2",
    "code": "A2.1-3",
    "file": "pages/topics/A2.1-3.md",
-   "raw_url": "https://raw.githubusercontent.com/antonyfuentesdev/spanish-teacher-course-pack/v1.4/pages/topics/A2.1-3.md",
+   "raw_url": "https://raw.githubusercontent.com/antonyfuentesdev/spanish-teacher-course-pack/v1.4.1/pages/topics/A2.1-3.md",
    "bytes": 17226,
    "sha256": "89deea2cb1fe95538e418e42e0d9ebcb184249505573c3ce02b3496415e0d160",
    "ends_with": "real imperfect forms come at B1.1-1."
@@ -330,7 +330,7 @@
    "level": "A2",
    "code": "A2.2-4",
    "file": "pages/topics/A2.2-4.md",
-   "raw_url": "https://raw.githubusercontent.com/antonyfuentesdev/spanish-teacher-course-pack/v1.4/pages/topics/A2.2-4.md",
+   "raw_url": "https://raw.githubusercontent.com/antonyfuentesdev/spanish-teacher-course-pack/v1.4.1/pages/topics/A2.2-4.md",
    "bytes": 17450,
    "sha256": "92750d818765e26ca433eb312054515a5e0cc491aeb59ce5d22fe988e91dc09c",
    "ends_with": "1984 (es.wikipedia Cartagena de Indias )."
@@ -341,7 +341,7 @@
    "level": "A2",
    "code": "A2.2-5",
    "file": "pages/topics/A2.2-5.md",
-   "raw_url": "https://raw.githubusercontent.com/antonyfuentesdev/spanish-teacher-course-pack/v1.4/pages/topics/A2.2-5.md",
+   "raw_url": "https://raw.githubusercontent.com/antonyfuentesdev/spanish-teacher-course-pack/v1.4.1/pages/topics/A2.2-5.md",
    "bytes": 16894,
    "sha256": "f9e78d51bcf904e189684fa9d1ad9b0c100623b4055b991a5eb38c481b4659b4",
    "ends_with": "at A2 and log for later."
@@ -352,7 +352,7 @@
    "level": "A2",
    "code": "A2.2-6",
    "file": "pages/topics/A2.2-6.md",
-   "raw_url": "https://raw.githubusercontent.com/antonyfuentesdev/spanish-teacher-course-pack/v1.4/pages/topics/A2.2-6.md",
+   "raw_url": "https://raw.githubusercontent.com/antonyfuentesdev/spanish-teacher-course-pack/v1.4.1/pages/topics/A2.2-6.md",
    "bytes": 16967,
    "sha256": "2c4b498dd9f9885d6c7beedff9da306ed6fb1bf80732a56ba9f540bd1a54b2a6",
    "ends_with": "tú imperatives are taught at B1.2-4."
@@ -363,7 +363,7 @@
    "level": "B1",
    "code": "B1.1-1",
    "file": "pages/topics/B1.1-1.md",
-   "raw_url": "https://raw.githubusercontent.com/antonyfuentesdev/spanish-teacher-course-pack/v1.4/pages/topics/B1.1-1.md",
+   "raw_url": "https://raw.githubusercontent.com/antonyfuentesdev/spanish-teacher-course-pack/v1.4.1/pages/topics/B1.1-1.md",
    "bytes": 19687,
    "sha256": "c506537203b5c9ae64780871ebe613dc4a90a4ac48918073ab7ca218abc9378c",
    "ends_with": "seen. Accept both in typed answers."
@@ -374,7 +374,7 @@
    "level": "B1",
    "code": "B1.1-2",
    "file": "pages/topics/B1.1-2.md",
-   "raw_url": "https://raw.githubusercontent.com/antonyfuentesdev/spanish-teacher-course-pack/v1.4/pages/topics/B1.1-2.md",
+   "raw_url": "https://raw.githubusercontent.com/antonyfuentesdev/spanish-teacher-course-pack/v1.4.1/pages/topics/B1.1-2.md",
    "bytes": 18309,
    "sha256": "642b652990686ce22a577d197a9de465f601fb15326b9bb64ce7367fd8173dc8",
    "ends_with": "intonation is perception-scored only (transcript limit)."
@@ -385,7 +385,7 @@
    "level": "B1",
    "code": "B1.1-3",
    "file": "pages/topics/B1.1-3.md",
-   "raw_url": "https://raw.githubusercontent.com/antonyfuentesdev/spanish-teacher-course-pack/v1.4/pages/topics/B1.1-3.md",
+   "raw_url": "https://raw.githubusercontent.com/antonyfuentesdev/spanish-teacher-course-pack/v1.4.1/pages/topics/B1.1-3.md",
    "bytes": 18555,
    "sha256": "295d923a70302990a7cf88fd0f20585276e1100e7295fe326ef8753708f20797",
    "ends_with": "CR, PA; MX uses INE/credencial awareness)."
@@ -396,7 +396,7 @@
    "level": "B1",
    "code": "B1.2-4",
    "file": "pages/topics/B1.2-4.md",
-   "raw_url": "https://raw.githubusercontent.com/antonyfuentesdev/spanish-teacher-course-pack/v1.4/pages/topics/B1.2-4.md",
+   "raw_url": "https://raw.githubusercontent.com/antonyfuentesdev/spanish-teacher-course-pack/v1.4.1/pages/topics/B1.2-4.md",
    "bytes": 17754,
    "sha256": "93f88f5fbc10c3d3bdc0460dde8fc8312907247cc7e548dd63b043c5a17ab6c6",
    "ends_with": "as a chunk, ahead of B2."
@@ -407,7 +407,7 @@
    "level": "B1",
    "code": "B1.2-5",
    "file": "pages/topics/B1.2-5.md",
-   "raw_url": "https://raw.githubusercontent.com/antonyfuentesdev/spanish-teacher-course-pack/v1.4/pages/topics/B1.2-5.md",
+   "raw_url": "https://raw.githubusercontent.com/antonyfuentesdev/spanish-teacher-course-pack/v1.4.1/pages/topics/B1.2-5.md",
    "bytes": 18761,
    "sha256": "0096c9485f34cf6c7d6a0904cc6283881f983e5ce0b7f223e73f895c07d68630",
    "ends_with": "CO parqueadero ; MX estacionamiento )."
@@ -418,7 +418,7 @@
    "level": "B1",
    "code": "B1.2-6",
    "file": "pages/topics/B1.2-6.md",
-   "raw_url": "https://raw.githubusercontent.com/antonyfuentesdev/spanish-teacher-course-pack/v1.4/pages/topics/B1.2-6.md",
+   "raw_url": "https://raw.githubusercontent.com/antonyfuentesdev/spanish-teacher-course-pack/v1.4.1/pages/topics/B1.2-6.md",
    "bytes": 18550,
    "sha256": "4fe57f59f1a84389b58a829bd9b31d15fca6af0e649fa6835a1941391fcc9425",
    "ends_with": "la eterna primavera (es.wikipedia Medellín )."
@@ -429,7 +429,7 @@
    "level": "B1",
    "code": "B1.3-7",
    "file": "pages/topics/B1.3-7.md",
-   "raw_url": "https://raw.githubusercontent.com/antonyfuentesdev/spanish-teacher-course-pack/v1.4/pages/topics/B1.3-7.md",
+   "raw_url": "https://raw.githubusercontent.com/antonyfuentesdev/spanish-teacher-course-pack/v1.4.1/pages/topics/B1.3-7.md",
    "bytes": 20514,
    "sha256": "f7165fe2528ec7eddb52ecf9672a1336c9192eb346d1f0a4997e4cf24af3bb5f",
    "ends_with": "content only; the language stays neutral."
@@ -440,7 +440,7 @@
    "level": "B1",
    "code": "B1.3-8",
    "file": "pages/topics/B1.3-8.md",
-   "raw_url": "https://raw.githubusercontent.com/antonyfuentesdev/spanish-teacher-course-pack/v1.4/pages/topics/B1.3-8.md",
+   "raw_url": "https://raw.githubusercontent.com/antonyfuentesdev/spanish-teacher-course-pack/v1.4.1/pages/topics/B1.3-8.md",
    "bytes": 18401,
    "sha256": "e7ddd90f10c70ee7f68607b971395502d119e1dd1e37b9495d45a839170f9482",
    "ends_with": "and avoids comments on learners' bodies."
@@ -451,7 +451,7 @@
    "level": "B1",
    "code": "B1.3-9",
    "file": "pages/topics/B1.3-9.md",
-   "raw_url": "https://raw.githubusercontent.com/antonyfuentesdev/spanish-teacher-course-pack/v1.4/pages/topics/B1.3-9.md",
+   "raw_url": "https://raw.githubusercontent.com/antonyfuentesdev/spanish-teacher-course-pack/v1.4.1/pages/topics/B1.3-9.md",
    "bytes": 19339,
    "sha256": "a4042f9c85cab499904173b5f3730e6bd1c6dbee408e21cac4eeb475fb08d3c1",
    "ends_with": "teach estar enfermo as the default."
@@ -462,7 +462,7 @@
    "level": "B1",
    "code": "B1.4-10",
    "file": "pages/topics/B1.4-10.md",
-   "raw_url": "https://raw.githubusercontent.com/antonyfuentesdev/spanish-teacher-course-pack/v1.4/pages/topics/B1.4-10.md",
+   "raw_url": "https://raw.githubusercontent.com/antonyfuentesdev/spanish-teacher-course-pack/v1.4.1/pages/topics/B1.4-10.md",
    "bytes": 18251,
    "sha256": "3002a9b58330da7876ed0cb9007ebf676d16c6c6123a5c759d76fcc8161cb435",
    "ends_with": "tendencies ( often ), not rules."
@@ -473,7 +473,7 @@
    "level": "B1",
    "code": "B1.4-11",
    "file": "pages/topics/B1.4-11.md",
-   "raw_url": "https://raw.githubusercontent.com/antonyfuentesdev/spanish-teacher-course-pack/v1.4/pages/topics/B1.4-11.md",
+   "raw_url": "https://raw.githubusercontent.com/antonyfuentesdev/spanish-teacher-course-pack/v1.4.1/pages/topics/B1.4-11.md",
    "bytes": 18878,
    "sha256": "06b208c895e60db2eef5cfba04705ceadad45c8a7aeff5b4f39a738679b53178",
    "ends_with": "kept general; no statistics are cited."
@@ -484,7 +484,7 @@
    "level": "B1",
    "code": "B1.4-12",
    "file": "pages/topics/B1.4-12.md",
-   "raw_url": "https://raw.githubusercontent.com/antonyfuentesdev/spanish-teacher-course-pack/v1.4/pages/topics/B1.4-12.md",
+   "raw_url": "https://raw.githubusercontent.com/antonyfuentesdev/spanish-teacher-course-pack/v1.4.1/pages/topics/B1.4-12.md",
    "bytes": 19320,
    "sha256": "47cde3e03265ce9fb7e1b53089fe4821ab6357572ea644d8450bb9b729c2a97f",
    "ends_with": "accepts either if the learner explains."
@@ -495,7 +495,7 @@
    "level": "B2",
    "code": "B2.1-1",
    "file": "pages/topics/B2.1-1.md",
-   "raw_url": "https://raw.githubusercontent.com/antonyfuentesdev/spanish-teacher-course-pack/v1.4/pages/topics/B2.1-1.md",
+   "raw_url": "https://raw.githubusercontent.com/antonyfuentesdev/spanish-teacher-course-pack/v1.4.1/pages/topics/B2.1-1.md",
    "bytes": 24638,
    "sha256": "7f9de05b04627c3056f7c11aef6a5f77baf5e7c45528884ad16676df0dfb76c9",
    "ends_with": "José (es.wikipedia Heredia (Costa Rica) )."
@@ -506,7 +506,7 @@
    "level": "B2",
    "code": "B2.1-2",
    "file": "pages/topics/B2.1-2.md",
-   "raw_url": "https://raw.githubusercontent.com/antonyfuentesdev/spanish-teacher-course-pack/v1.4/pages/topics/B2.1-2.md",
+   "raw_url": "https://raw.githubusercontent.com/antonyfuentesdev/spanish-teacher-course-pack/v1.4.1/pages/topics/B2.1-2.md",
    "bytes": 24778,
    "sha256": "b869d9e8e7b2e28a698039a6fc51502d22253ac8092c4639092360a5c7dbd92f",
    "ends_with": "/ in a while); listening only."
@@ -517,7 +517,7 @@
    "level": "B2",
    "code": "B2.1-3",
    "file": "pages/topics/B2.1-3.md",
-   "raw_url": "https://raw.githubusercontent.com/antonyfuentesdev/spanish-teacher-course-pack/v1.4/pages/topics/B2.1-3.md",
+   "raw_url": "https://raw.githubusercontent.com/antonyfuentesdev/spanish-teacher-course-pack/v1.4.1/pages/topics/B2.1-3.md",
    "bytes": 23136,
    "sha256": "36673cfa468cfe4da96c814e097ced6083a540e54ed35b8f77cfb46759960127",
    "ends_with": "spoken default in all four countries."
@@ -528,7 +528,7 @@
    "level": "B2",
    "code": "B2.2-4",
    "file": "pages/topics/B2.2-4.md",
-   "raw_url": "https://raw.githubusercontent.com/antonyfuentesdev/spanish-teacher-course-pack/v1.4/pages/topics/B2.2-4.md",
+   "raw_url": "https://raw.githubusercontent.com/antonyfuentesdev/spanish-teacher-course-pack/v1.4.1/pages/topics/B2.2-4.md",
    "bytes": 23872,
    "sha256": "1fbdb7d4c3013ff89df6eb563ebc8754b670b1ddb3cdaa8e3a7e87d40e8cffc7",
    "ends_with": "plus outside listening (13.2 honest limit)."
@@ -539,7 +539,7 @@
    "level": "B2",
    "code": "B2.2-5",
    "file": "pages/topics/B2.2-5.md",
-   "raw_url": "https://raw.githubusercontent.com/antonyfuentesdev/spanish-teacher-course-pack/v1.4/pages/topics/B2.2-5.md",
+   "raw_url": "https://raw.githubusercontent.com/antonyfuentesdev/spanish-teacher-course-pack/v1.4.1/pages/topics/B2.2-5.md",
    "bytes": 24268,
    "sha256": "5ef5cd02127eb8b5051145dfc5838b806668b13335fd331176e1006cf5f26fe6",
    "ends_with": "indicative as the default for persuasion."
@@ -550,7 +550,7 @@
    "level": "B2",
    "code": "B2.2-6",
    "file": "pages/topics/B2.2-6.md",
-   "raw_url": "https://raw.githubusercontent.com/antonyfuentesdev/spanish-teacher-course-pack/v1.4/pages/topics/B2.2-6.md",
+   "raw_url": "https://raw.githubusercontent.com/antonyfuentesdev/spanish-teacher-course-pack/v1.4.1/pages/topics/B2.2-6.md",
    "bytes": 23860,
    "sha256": "42470ca18fd758c9ddc659e703e96a487948ecaa16e53e20e4711507a4a16777",
    "ends_with": "many speakers use debe alone."
@@ -561,7 +561,7 @@
    "level": "B2",
    "code": "B2.3-7",
    "file": "pages/topics/B2.3-7.md",
-   "raw_url": "https://raw.githubusercontent.com/antonyfuentesdev/spanish-teacher-course-pack/v1.4/pages/topics/B2.3-7.md",
+   "raw_url": "https://raw.githubusercontent.com/antonyfuentesdev/spanish-teacher-course-pack/v1.4.1/pages/topics/B2.3-7.md",
    "bytes": 24431,
    "sha256": "b33daa70d8df765a164a3ea15af6d1e2e950fd565c37ec8eebf7a943d1489571",
    "ends_with": "the transcript; drill is recorded only."
@@ -572,7 +572,7 @@
    "level": "B2",
    "code": "B2.3-8",
    "file": "pages/topics/B2.3-8.md",
-   "raw_url": "https://raw.githubusercontent.com/antonyfuentesdev/spanish-teacher-course-pack/v1.4/pages/topics/B2.3-8.md",
+   "raw_url": "https://raw.githubusercontent.com/antonyfuentesdev/spanish-teacher-course-pack/v1.4.1/pages/topics/B2.3-8.md",
    "bytes": 24114,
    "sha256": "6f60877afafced6ccfc208668d4ce36bab5672a2de8063c0bd018386e049f233",
    "ends_with": "title (MX, PA) is listening only."
@@ -583,7 +583,7 @@
    "level": "B2",
    "code": "B2.3-9",
    "file": "pages/topics/B2.3-9.md",
-   "raw_url": "https://raw.githubusercontent.com/antonyfuentesdev/spanish-teacher-course-pack/v1.4/pages/topics/B2.3-9.md",
+   "raw_url": "https://raw.githubusercontent.com/antonyfuentesdev/spanish-teacher-course-pack/v1.4.1/pages/topics/B2.3-9.md",
    "bytes": 23697,
    "sha256": "1b9061b7ed1da9d30af38d7ce62da10902c4e5eb79fc7ac2028236a97669b08b",
    "ends_with": "padre/padrísimo, tuanis) are labelled and listening-only."
@@ -594,7 +594,7 @@
    "level": "B2",
    "code": "B2.4-10",
    "file": "pages/topics/B2.4-10.md",
-   "raw_url": "https://raw.githubusercontent.com/antonyfuentesdev/spanish-teacher-course-pack/v1.4/pages/topics/B2.4-10.md",
+   "raw_url": "https://raw.githubusercontent.com/antonyfuentesdev/spanish-teacher-course-pack/v1.4.1/pages/topics/B2.4-10.md",
    "bytes": 25523,
    "sha256": "2e56eb2004beb02e9ee40c3e132a9c04b1f1a27afe71e602b1b49948b869f570",
    "ends_with": "11. Notes and sources"
@@ -605,7 +605,7 @@
    "level": "B2",
    "code": "B2.4-11",
    "file": "pages/topics/B2.4-11.md",
-   "raw_url": "https://raw.githubusercontent.com/antonyfuentesdev/spanish-teacher-course-pack/v1.4/pages/topics/B2.4-11.md",
+   "raw_url": "https://raw.githubusercontent.com/antonyfuentesdev/spanish-teacher-course-pack/v1.4.1/pages/topics/B2.4-11.md",
    "bytes": 23946,
    "sha256": "07f23f4889865a166dffc06e431290715b12f9c9e0b55c237ba17e39b3c21667",
    "ends_with": "of other countries; labelled in context."
@@ -616,7 +616,7 @@
    "level": "B2",
    "code": "B2.4-12",
    "file": "pages/topics/B2.4-12.md",
-   "raw_url": "https://raw.githubusercontent.com/antonyfuentesdev/spanish-teacher-course-pack/v1.4/pages/topics/B2.4-12.md",
+   "raw_url": "https://raw.githubusercontent.com/antonyfuentesdev/spanish-teacher-course-pack/v1.4.1/pages/topics/B2.4-12.md",
    "bytes": 26562,
    "sha256": "2f64610c443a87acbd5a65c90b266ffd00ff019699f80211b198efe55ffdb360",
    "ends_with": "the gates in 13.11 are met."
@@ -627,7 +627,7 @@
    "level": "C1",
    "code": "C1.1-1",
    "file": "pages/topics/C1.1-1.md",
-   "raw_url": "https://raw.githubusercontent.com/antonyfuentesdev/spanish-teacher-course-pack/v1.4/pages/topics/C1.1-1.md",
+   "raw_url": "https://raw.githubusercontent.com/antonyfuentesdev/spanish-teacher-course-pack/v1.4.1/pages/topics/C1.1-1.md",
    "bytes": 29185,
    "sha256": "36541bc6688c63303f32182a9a2eb80ed6a2277978125c578334491e511ce432",
    "ends_with": "writing model is about 195 words."
@@ -638,7 +638,7 @@
    "level": "C1",
    "code": "C1.1-2",
    "file": "pages/topics/C1.1-2.md",
-   "raw_url": "https://raw.githubusercontent.com/antonyfuentesdev/spanish-teacher-course-pack/v1.4/pages/topics/C1.1-2.md",
+   "raw_url": "https://raw.githubusercontent.com/antonyfuentesdev/spanish-teacher-course-pack/v1.4.1/pages/topics/C1.1-2.md",
    "bytes": 27747,
    "sha256": "3181be2013380615de189eda6a938856411352542b0eddd753723601ac485107",
    "ends_with": "bot never assumes the learner's beliefs."
@@ -649,7 +649,7 @@
    "level": "C1",
    "code": "C1.1-3",
    "file": "pages/topics/C1.1-3.md",
-   "raw_url": "https://raw.githubusercontent.com/antonyfuentesdev/spanish-teacher-course-pack/v1.4/pages/topics/C1.1-3.md",
+   "raw_url": "https://raw.githubusercontent.com/antonyfuentesdev/spanish-teacher-course-pack/v1.4.1/pages/topics/C1.1-3.md",
    "bytes": 27764,
    "sha256": "6345d33d03413b55625d18f54e3a23d018d44fea61d5a6b6bf09993b8115721a",
    "ends_with": "replaced it in the active list."
@@ -660,7 +660,7 @@
    "level": "C1",
    "code": "C1.2-4",
    "file": "pages/topics/C1.2-4.md",
-   "raw_url": "https://raw.githubusercontent.com/antonyfuentesdev/spanish-teacher-course-pack/v1.4/pages/topics/C1.2-4.md",
+   "raw_url": "https://raw.githubusercontent.com/antonyfuentesdev/spanish-teacher-course-pack/v1.4.1/pages/topics/C1.2-4.md",
    "bytes": 29329,
    "sha256": "e59e5a04f0829dfb3b585dd2f76883634b3e11f15da2a88302e24f0b6ac0f93d",
    "ends_with": "(DLE tico ). Confirmed Oct 2026."
@@ -671,7 +671,7 @@
    "level": "C1",
    "code": "C1.2-5",
    "file": "pages/topics/C1.2-5.md",
-   "raw_url": "https://raw.githubusercontent.com/antonyfuentesdev/spanish-teacher-course-pack/v1.4/pages/topics/C1.2-5.md",
+   "raw_url": "https://raw.githubusercontent.com/antonyfuentesdev/spanish-teacher-course-pack/v1.4.1/pages/topics/C1.2-5.md",
    "bytes": 25949,
    "sha256": "34409668a73ac3e0e410bd85cbb82f465b14541363c1f11bdf13f6fa00b8c7de",
    "ends_with": "countries; the bot accepts all three."
@@ -682,7 +682,7 @@
    "level": "C1",
    "code": "C1.2-6",
    "file": "pages/topics/C1.2-6.md",
-   "raw_url": "https://raw.githubusercontent.com/antonyfuentesdev/spanish-teacher-course-pack/v1.4/pages/topics/C1.2-6.md",
+   "raw_url": "https://raw.githubusercontent.com/antonyfuentesdev/spanish-teacher-course-pack/v1.4.1/pages/topics/C1.2-6.md",
    "bytes": 27795,
    "sha256": "be1c52eb0f15ff04391a39bb3b3534b6dbed8e880925ffb2feb0b8c35636e504",
    "ends_with": "A anchor is used humorously (affectionate)."
@@ -693,7 +693,7 @@
    "level": "C1",
    "code": "C1.3-7",
    "file": "pages/topics/C1.3-7.md",
-   "raw_url": "https://raw.githubusercontent.com/antonyfuentesdev/spanish-teacher-course-pack/v1.4/pages/topics/C1.3-7.md",
+   "raw_url": "https://raw.githubusercontent.com/antonyfuentesdev/spanish-teacher-course-pack/v1.4.1/pages/topics/C1.3-7.md",
    "bytes": 28920,
    "sha256": "e337c92012f91f7c6fab648a7656487abec7b2d60d8be14ba6e20112d562ad75",
    "ends_with": "for a fact both speakers know."
@@ -704,7 +704,7 @@
    "level": "C1",
    "code": "C1.3-8",
    "file": "pages/topics/C1.3-8.md",
-   "raw_url": "https://raw.githubusercontent.com/antonyfuentesdev/spanish-teacher-course-pack/v1.4/pages/topics/C1.3-8.md",
+   "raw_url": "https://raw.githubusercontent.com/antonyfuentesdev/spanish-teacher-course-pack/v1.4.1/pages/topics/C1.3-8.md",
    "bytes": 28865,
    "sha256": "33852ad35ec6d99ab9084f377eefdba717c792e7c2c5b7b9bd1ce6dca0100227",
    "ends_with": "informal form wrong in casual speech."
@@ -715,7 +715,7 @@
    "level": "C1",
    "code": "C1.3-9",
    "file": "pages/topics/C1.3-9.md",
-   "raw_url": "https://raw.githubusercontent.com/antonyfuentesdev/spanish-teacher-course-pack/v1.4/pages/topics/C1.3-9.md",
+   "raw_url": "https://raw.githubusercontent.com/antonyfuentesdev/spanish-teacher-course-pack/v1.4.1/pages/topics/C1.3-9.md",
    "bytes": 31464,
    "sha256": "7bdeed1bfed626fb48197e2dec84f935843f8adf89e33483b23933de61afb298",
    "ends_with": "reforma educativa de 1950 are fictional."
@@ -726,7 +726,7 @@
    "level": "C1",
    "code": "C1.4-10",
    "file": "pages/topics/C1.4-10.md",
-   "raw_url": "https://raw.githubusercontent.com/antonyfuentesdev/spanish-teacher-course-pack/v1.4/pages/topics/C1.4-10.md",
+   "raw_url": "https://raw.githubusercontent.com/antonyfuentesdev/spanish-teacher-course-pack/v1.4.1/pages/topics/C1.4-10.md",
    "bytes": 29140,
    "sha256": "382982cb2e6f7b3315f664009511ea93cbd98c390254edb502ff3b74ed62b723",
    "ends_with": "popote (Méx.) and pitillo (Col., Ven.)."
@@ -737,9 +737,9 @@
    "level": "C1",
    "code": "C1.4-11",
    "file": "pages/topics/C1.4-11.md",
-   "raw_url": "https://raw.githubusercontent.com/antonyfuentesdev/spanish-teacher-course-pack/v1.4/pages/topics/C1.4-11.md",
-   "bytes": 29098,
-   "sha256": "ce883540f94c2e81708d38a8471e68529de298ea0a70e33952f89bc1dc86d20e",
+   "raw_url": "https://raw.githubusercontent.com/antonyfuentesdev/spanish-teacher-course-pack/v1.4.1/pages/topics/C1.4-11.md",
+   "bytes": 29097,
+   "sha256": "48f8ce41acfc4cade6a052e6b732e5386cd88bdb2fb66f79dab0ed5c2ee8af86",
    "ends_with": "quote must match the verified text."
   },
   {
@@ -748,7 +748,7 @@
    "level": "C1",
    "code": "C1.4-12",
    "file": "pages/topics/C1.4-12.md",
-   "raw_url": "https://raw.githubusercontent.com/antonyfuentesdev/spanish-teacher-course-pack/v1.4/pages/topics/C1.4-12.md",
+   "raw_url": "https://raw.githubusercontent.com/antonyfuentesdev/spanish-teacher-course-pack/v1.4.1/pages/topics/C1.4-12.md",
    "bytes": 29699,
    "sha256": "a91620a4208718461fbfaac96ac4ffb9c31e3db7d211b157556ac0c3512f5868",
    "ends_with": "as well as hubiera roto ."

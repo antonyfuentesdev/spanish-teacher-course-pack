@@ -1,5 +1,5 @@
 <callout icon="📘" color="blue_bg">
-The essentials of the course: voice-first Spanish, CEFR A1 to C1, for adult learners, in neutral Latin American Spanish (Mexico, Costa Rica, Colombia, Panama). Course and topic map from AVE Global (Instituto Cervantes); session flow, exams and scales modelled on published programs; grammar, lexis and sound assignment per topic is our own. Badges are bot-assessed, never an official certificate.
+The essentials of the course: voice-first Spanish, CEFR A1 to C1, for adult learners, in neutral Latin American Spanish (Mexico, Costa Rica, Colombia, Panama). Course and topic map drawn from public curriculum frameworks and openly available sources; session flow, exams and scales modelled on published programs; grammar, lexis and sound assignment per topic is our own. Badges are bot-assessed, never an official certificate.
 </callout>
 
 ## How this pack fits together
@@ -44,13 +44,13 @@ Every learner record goes in <b>one progress file on the bot's own computer</b>,
 - <b>Reserved names:</b> only the tutor writes <code>progress.md</code>, <code>progress-archive.md</code> and <code>backups/</code>; one tutor copy per learner account, because all Bots on an account share one computer
 - Table formats: 13.11 Progress tracking. Scoring rules: 13.9 Rubrics. Queue rules: 13.10
 
-## 1. Level structure (from AVE Global)
+## 1. Level structure
 
 - CEFR A1 to C1 in <b>16 courses</b>: A1.1, A1.2, A2.1, A2.2, B1.1–B1.4, B2.1–B2.4, C1.1–C1.4
-- <b>48 topics</b>, 3 per course, in AVE Global's order — [AVE Global](https://ave.cervantes.es/aveglobal/cursos-espanol-en-linea-ave-global.html), [AVE curriculum (Cervantes Shanghai)](https://shanghai.cervantes.es/es/cursos_espanol/cursos_en_linea_espanol/cursos_ave.htm)
-- Each topic: one main grammar focus plus supporting grammar, lexis and chunks, and one sound (13.1). Not yet mapped to the Instituto Cervantes Plan Curricular (its pages could not be opened); that check is future work
+- <b>48 topics</b>, 3 per course, in a fixed course order drawn from public curriculum frameworks and openly available sources
+- Each topic: one main grammar focus plus supporting grammar, lexis and chunks, and one sound (13.1). Not yet cross-checked against detailed public curriculum inventories; that check is future work
 
-## 2. Topic order (official AVE Global topic names)
+## 2. Topic order
 
 - <b>A1.1:</b> 1. Primeros contactos. Saludos y datos personales · 2. La familia y los amigos. Descripción física y estados de ánimo · 3. La alimentación
 - <b>A1.2:</b> 4. La ciudad y el transporte · 5. Un día normal. Horarios, hábitos y costumbres · 6. El tiempo libre. Organizar actividades de ocio
@@ -85,20 +85,20 @@ Input → noticing grammar → practice → speaking task → pronunciation dril
 
 ## 5. Placement (SIELE style)
 
-- One adaptive, multilevel speaking and listening test (\~15 min); sets the level, the learner starts at the first course of it and fast-tracks with early topic checks; pronunciation is not used; scripts and the definition of a struggle are in 13.9 §1. A complete beginner can skip the test and start at A1.1-1. Placement only opens fast-tracks (optional, at the start of each topic's session 1); a fast-track under 8/10 just means the topic is taught normally, and two results under 6/10 at a placed level lead the bot to offer a move down one level, never an automatic one (13.11) — [SIELE format](https://examenes.cervantes.es/es/siele/como), [score bands](https://siele.org/en/examenes)
+- One adaptive, multilevel speaking and listening test (\~15 min); sets the level, the learner starts at the first course of it and fast-tracks with early topic checks; pronunciation is not used; scripts and the definition of a struggle are in 13.9 §1. A complete beginner can skip the test and start at A1.1-1. Placement only opens fast-tracks (optional, at the start of each topic's session 1); a fast-track under 8/10 just means the topic is taught normally, and two results under 6/10 at a placed level lead the bot to offer a move down one level, never an automatic one (13.11) — modelled on common adaptive placement formats and published score bands
 
 ## 6. Pronunciation (CEFR)
 
 - Judged by <b>how easy the learner is to understand</b>, not native accent: a 0–2 check per drilled feature, and the CEFR scale for level exams (13.9)
-- Because the bot may only hear a transcript, pronunciation is excluded from placement, promotion and all pass decisions by design: the course does no audio-rating test, and pronunciation is coached and reported for feedback only — [CEFR phonological competence](https://www.coe.int/en/web/common-european-framework-reference-languages/phonological-competence)
+- Because the bot may only hear a transcript, pronunciation is excluded from placement, promotion and all pass decisions by design: the course does no audio-rating test, and pronunciation is coached and reported for feedback only, using published CEFR phonological-competence descriptors
 
-## 7. Progress, passing and time gates (DELE / AVE Global)
+## 7. Progress, passing and time gates
 
 - <b>Topic:</b> pass the topic check at <b>60%</b>
 - <b>Topic check:</b> 10 points (6 controlled, 4 speaking-task criteria), template in 13.9
-- <b>Course:</b> 3 topic checks passed and both consolidation sessions done (measurable; replaces AVE's 65%-of-activities rule)
+- <b>Course:</b> 3 topic checks passed and both consolidation sessions done (measurable; replaces activity-completion percentage rules used in some published programs)
 - <b>End-of-level exam (A1, A2, B1, B2, C1):</b> listening and speaking for everyone; reading and writing (texts in chat, typed answers, short dictation) for typed-track learners
-- <b>Pass rule: combined, like real DELE.</b> At least 60% in each paired group, papers added together: listening + speaking ≥ 30/50 (this moves the learner up) and, on the typed track, reading + writing ≥ 30/50 (this only decides the four-skill badge; it never blocks a level up) — [DELE structure](https://examenes.cervantes.es/es/dele/como)
+- <b>Pass rule: combined, like real DELE.</b> At least 60% in each paired group, papers added together: listening + speaking ≥ 30/50 (this moves the learner up) and, on the typed track, reading + writing ≥ 30/50 (this only decides the four-skill badge; it never blocks a level up)
 - Badges say what was tested: "Spoken Spanish \[level\]" or, with the typed track, "listening, speaking, reading and writing"; always "bot-assessed", never an official certificate
 - Details in 13.9 and 13.11, with can-do exit statements per level
 - <b>Anti-rush gates:</b> based mainly on lesson hours and sessions (75% of a level's plan lesson hours before its exam; 25% at a placed level), at most 2 lesson sessions a day, limited fast-tracks and retakes with spacing, an exam memory check (7/10) inside every level exam, a one-month check (6/10) 30 days after every level pass (so level passes are at least 30 days apart), and a modest 3-week minimum per level. Full rules: 13.11 Gates
@@ -108,7 +108,7 @@ Input → noticing grammar → practice → speaking task → pronunciation dril
 
 ## 8. Graduation (C1)
 
-- Presentation with mediation, interview and informal negotiation, as in the DELE C1 oral paper (checked against the search-index copy of the official 2024 exam guide; live page unreachable) — [DELE C1 guide](https://examenes.cervantes.es/sites/default/files/Guia_examen_DELE_C1_2024_0.pdf)
+- Presentation with mediation, interview and informal negotiation, as in a published DELE-style C1 oral paper (checked against a search-index copy of a 2024 exam guide; live page unreachable)
 - Achievement badge, not an official DELE or SIELE credential
 - <b>Scoring:</b> 3 tasks × 25 points = 75. Pass = total ≥ 45, every task ≥ 13, no criterion at 1, Accuracy ≥ 3 in at least 2 tasks; 60 or more = distinction; second scoring pass the next day (13.9 §4)
 - Graduation needs every gate in 13.11 Gates §8 recorded in the progress file; the bot never announces it earlier
