@@ -1,8 +1,8 @@
-<b>Course Pack version: v1.1</b> · Oct 22, 2026 · 73 pages in total (this index included) · 48 topics · 8 exam pages · 11 course rules pages
+<b>Course Pack version: v1.2</b> · Oct 22, 2026 · 73 pages in total (this index included) · 48 topics · 8 exam pages · 11 course rules pages
 
 Bots load this pack from GitHub: https://github.com/antonyfuentesdev/spanish-teacher-course-pack (manifest: https://raw.githubusercontent.com/antonyfuentesdev/spanish-teacher-course-pack/main/manifest.json). Files are verified by SHA-256.
 
-This page is the manifest of the Spanish Teacher Course Pack. Course Pack version: v1.1. It lists every page in the pack with its page ID, public link and the words its page ends with. Public address of any page: <code>https://ringed-sombrero-50c.notion.site/</code> followed by its page ID.
+This page is the manifest of the Spanish Teacher Course Pack. Course Pack version: v1.2. It lists every page in the pack with its page ID, public link and the words its page ends with. Public address of any page: <code>https://ringed-sombrero-50c.notion.site/</code> followed by its page ID.
 
 ## How to use this page (people)
 
@@ -15,8 +15,8 @@ This page is the manifest of the Spanish Teacher Course Pack. Course Pack versio
 
 | # | Page | Page ID | Public link | Page ends with |
 | --- | --- | --- | --- | --- |
-| 0 | Index and manifest (v1.1) | 4011414f7879815aaaf3f02b2d2b5708 | [https://ringed-sombrero-50c.notion.site/4011414f7879815aaaf3f02b2d2b5708](https://ringed-sombrero-50c.notion.site/4011414f7879815aaaf3f02b2d2b5708) | 4011414f787981bc8527dc8e7df46817 |
-| 1 | Spanish Teacher — Course Pack (v1.1) | 4011414f7879816f8df2c37420a9d85f | [https://ringed-sombrero-50c.notion.site/4011414f7879816f8df2c37420a9d85f](https://ringed-sombrero-50c.notion.site/4011414f7879816f8df2c37420a9d85f) | Index and manifest (v1.1) |
+| 0 | Index and manifest (v1.2) | 4011414f7879815aaaf3f02b2d2b5708 | [https://ringed-sombrero-50c.notion.site/4011414f7879815aaaf3f02b2d2b5708](https://ringed-sombrero-50c.notion.site/4011414f7879815aaaf3f02b2d2b5708) | 4011414f787981bc8527dc8e7df46817 |
+| 1 | Spanish Teacher — Course Pack (v1.2) | 4011414f7879816f8df2c37420a9d85f | [https://ringed-sombrero-50c.notion.site/4011414f7879816f8df2c37420a9d85f](https://ringed-sombrero-50c.notion.site/4011414f7879816f8df2c37420a9d85f) | Index and manifest (v1.2) |
 | 2 | Learning plan overview | 4011414f787981749229e0aa9bf72870 | [https://ringed-sombrero-50c.notion.site/4011414f787981749229e0aa9bf72870](https://ringed-sombrero-50c.notion.site/4011414f787981749229e0aa9bf72870) | the bot never announces it earlier |
 | 3 | Course rules (13.1–13.11) | 4011414f78798179ad96c6da09f4d538 | [https://ringed-sombrero-50c.notion.site/4011414f78798179ad96c6da09f4d538](https://ringed-sombrero-50c.notion.site/4011414f78798179ad96c6da09f4d538) | 13.11 Progress tracking |
 | 4 | 13.12 Topic materials | 4011414f787981e1a226cb23234695ab | [https://ringed-sombrero-50c.notion.site/4011414f787981e1a226cb23234695ab](https://ringed-sombrero-50c.notion.site/4011414f787981e1a226cb23234695ab) | C1.4-12 Dele que DELE. El humor. El DELE C1 |

@@ -167,7 +167,7 @@ Puntos: describe el problema, pide con condicional o quiero que / le pido que, r
 <b>Dictado (5 puntos).</b> "Cuando llegamos al hotel, / ya era de noche / y la recepción estaba cerrada. / Por suerte, un vecino nos ayudó / a encontrar otro lugar para dormir." (25 words)
 
 <b>Tarea 1 (20 puntos), 80–110 palabras.</b> "Escribe un correo formal a la administración de tu edificio. Explica un problema (ruido, una fuga de agua o el ascensor), desde cuándo ocurre, qué has hecho y qué pides que hagan."
-- Modelo (101 words): "Estimada administración: Le escribo porque desde hace dos semanas hay una fuga de agua en el techo del baño de mi apartamento, el 5C. Al principio era solo una mancha, pero ahora cae agua cuando llueve. Ya hablé con el vecino del piso de arriba, que me dijo que en su baño no hay ningún problema. Por eso creo que la fuga viene de una tubería del edificio. Le pido que envíe a un técnico esta semana, porque el agua está dañando la pintura y tengo miedo de que se dañe la luz. Quedo atenta a su respuesta. Atentamente, Ellen Brooks"
+- Modelo (102 words): "Estimada administración: Le escribo porque desde hace dos semanas hay una fuga de agua en el techo del baño de mi apartamento, el 5C. Al principio era solo una mancha, pero ahora cae agua cuando llueve. Ya hablé con el vecino del piso de arriba, que me dijo que en su baño no hay ningún problema. Por eso creo que la fuga viene de una tubería del edificio. Le pido que envíe a un técnico esta semana, porque el agua está dañando la pintura y tengo miedo de que se dañe la instalación eléctrica. Quedo atenta a su respuesta. Atentamente, Ellen Brooks"
 
 <b>Tarea 2 (20 puntos), 80–110 palabras.</b> "Un amigo va a visitar tu país por primera vez. Escríbele un mensaje con recomendaciones: qué lugares visitar, qué comer, qué evitar y qué es importante que lleve."
 - Modelo (92 words): "¡Hola, Tom! Qué bueno que vienes por fin. Te recomiendo que pases dos días en la capital y que después vayas a la costa, donde hay playas tranquilas. Tienes que probar la comida de los mercados: es barata y muy rica. Eso sí, no tomes agua de la llave en los pueblos pequeños; mejor compra agua embotellada. Es importante que traigas ropa ligera, pero también una chaqueta para las montañas, porque por la noche hace frío. Y no cambies dinero en el aeropuerto, porque es más caro. ¡Te espero! Un abrazo, Nico"
@@ -326,7 +326,7 @@ Puntos: tres pedidos con quiero que / necesito que / ¿podrías…?, explica la 
 <b>Tarea 1 (ítems 1–5).</b>
 1. "¿Podrías bajar el volumen? Estoy hablando por teléfono." — ¿Qué pide? → que baje el volumen
 2. "De joven era muy tímido, pero ahora hablo con todo el mundo." — ¿Cómo era de joven? a) simpático b) tímido c) hablador → b
-3. "Salimos para la playa mañana temprano, por eso hoy me acuesto pronto." — ¿Por qué se acuesta pronto? → salen para la playa mañana temprano
+3. "Salimos para la playa mañana temprano, por eso hoy me acuesto temprano." — ¿Por qué se acuesta temprano? → salen para la playa mañana temprano
 4. "Es mejor que llames antes de ir, porque a veces cierran temprano." — ¿Qué recomienda? → llamar antes de ir
 5. "El restaurante donde celebramos la boda ya no existe." — ¿Qué pasó con el restaurante? a) cambió de nombre b) es más caro c) ya no existe → c
 <b>Tarea 2 (ítems 6–10).</b> "En una agencia de alquiler de carros."

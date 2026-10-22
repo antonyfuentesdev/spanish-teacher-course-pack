@@ -16,7 +16,7 @@ Every learner record goes in <b>one progress file on the bot's own computer</b>,
 
 | Tracked item | Source of truth (progress file) | Also in memory | Written when | Written by |
 | --- | --- | --- | --- | --- |
-| Learner profile: name, native language, goal, target country (awareness only), study plan (days and hours), planned lessons per week, typed track, age, level start, lowered targets | Profile | Copy of goal, native language, target country, age | At intake; again whenever the learner changes one | Placement test, Progress update |
+| Learner profile: name, native language, goal, target country (awareness only), study plan (days and hours), planned lessons per week, typed track, age, city, job or studies, level start, lowered targets | Profile | Copy of goal, native language, target country, age, city, job or studies | At intake; again whenever the learner changes one | Placement test, Progress update |
 | Placement result | Assessments, type Placement, with Evidence | Level and current topic | At the end of the intake call | Placement test, Progress update |
 | Session log, including lesson hours, learning hours and the drill score | Sessions, one row per call or self-reported outside activity, keyed by start time | No | After every call, from the transcript | Progress update; Daily reconcile fills gaps |
 | Topic checks (Form, attempt, fast-track) | Assessments, type Topic check, with Evidence and second-pass total | No | After the call that included the check | Progress update |
@@ -36,7 +36,7 @@ Every learner record goes in <b>one progress file on the bot's own computer</b>,
 
 <b>File lifecycle</b>
 
-- <b>Created fresh at intake</b> on each copy of the bot: the file is not part of the template. The intake test writes the header, the Profile, the Placement row in Assessments with its Evidence, and the first Sessions row; the other tables start empty
+- <b>Created fresh at intake</b> on each copy of the bot: the file is not part of the template. Course setup creates it empty (13.11 File template); intake fills the header's learner name and time zone, the Profile, the Placement row in Assessments with its Evidence (for a self-declared beginner, their answer), and a Sessions row for the placement test or short first lesson if one took place; the other tables start empty
 - <b>Read before each session</b> to pick the topic, due reviews, pending retakes and gate status. This may or may not work inside a live call, so the <b>next session brief</b> routine always posts all of it in chat first (built-in fallback; 13.11 design assumption A1)
 - <b>Written after each call</b> from the transcript with the write procedure in 13.11 (temporary file, validation, daily backup, replace; rows keyed by call start time so nothing is duplicated); then the memory summary. Nothing relies on a specific write trigger; built-in fallbacks: a <b>daily reconcile</b> routine and the next session's opening step write anything missing ("listo" is optional). A check result is said aloud in the call so it is in the transcript, and stays <b>pending</b> until saved, never lost (13.11 Pending results; assumptions A2, A3)
 - <b>Rows are added, not overwritten</b>, except the Profile table and Review queue rows, which are updated in place. A correction is a new row with a note
