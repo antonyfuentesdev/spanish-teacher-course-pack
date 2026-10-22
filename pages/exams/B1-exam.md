@@ -57,7 +57,7 @@ Two tasks; the writing-task score is the mean of the two task totals (/20), roun
 10. ¿Cuándo van a verlo? → el jueves a las cinco
 
 <b>Tarea 3 (ítems 11–15).</b> "Un mensaje de voz de una clínica."
-> Buenos días, le habla Patricia, de la Clínica Santa Elena. Le llamo para confirmar su cita con la doctora Vargas el martes 12 a las nueve y media. Le recuerdo que no debe comer nada desde las diez de la noche anterior, porque le vamos a hacer un análisis de sangre. Traiga su documento de identidad y la lista de medicamentos que toma. Si no puede venir, le pedimos que nos avise un día antes. Gracias.
+> Buenos días, le habla Patricia, de la Clínica Santa Elena. Le dejo este mensaje para confirmar su cita con la doctora Vargas el martes 12 a las nueve y media. Le recuerdo que no debe comer nada desde las diez de la noche anterior, porque le vamos a hacer un análisis de sangre. Traiga su documento de identidad y la lista de medicamentos que toma. Si no puede venir, le pedimos que nos avise un día antes. Gracias.
 
 11. ¿Con quién es la cita? → con la doctora Vargas
 12. ¿Qué día y a qué hora? → el martes 12 a las nueve y media
