@@ -1,0 +1,1 @@
+One page per topic: 48 topics, 3 per course, in course order (A1.1 to C1.4). Each page has the topic sheet, session outline, input scripts, model dialogue, exercise bank, task cards, pronunciation drill, spaced-review seeds, the topic check (Forms A, B, C and D), the typed track, and notes and sources. Rules for using these pages: 13.2 Topic format and 13.9 Rubrics.

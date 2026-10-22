@@ -1,0 +1,1 @@
+Every fixed assessment paper beyond the topic checks: the administration and scoring guide, the placement test, the level exam papers A1 to C1 (Forms 1, 2 and 3 each, with scripts, texts, answer keys and anchors) and the C1 graduation oral (Sets 1, 2 and 3). Rules: 13.9 Rubrics and 13.11 Progress tracking.
