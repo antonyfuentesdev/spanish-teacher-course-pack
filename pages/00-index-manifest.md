@@ -1,22 +1,22 @@
-<b>Course Pack version: v1</b> · Oct 22, 2026 · 73 pages in total (this index included) · 48 topics · 8 exam pages · 11 course rules pages
+<b>Course Pack version: v1.1</b> · Oct 22, 2026 · 73 pages in total (this index included) · 48 topics · 8 exam pages · 11 course rules pages
 
 Bots load this pack from GitHub: https://github.com/antonyfuentesdev/spanish-teacher-course-pack (manifest: https://raw.githubusercontent.com/antonyfuentesdev/spanish-teacher-course-pack/main/manifest.json). Files are verified by SHA-256.
 
-This page is the manifest of the Spanish Teacher Course Pack. Course Pack version: v1. It lists every page in the pack with its page ID, public link and the words its page ends with. Public address of any page: <code>https://ringed-sombrero-50c.notion.site/</code> followed by its page ID.
+This page is the manifest of the Spanish Teacher Course Pack. Course Pack version: v1.1. It lists every page in the pack with its page ID, public link and the words its page ends with. Public address of any page: <code>https://ringed-sombrero-50c.notion.site/</code> followed by its page ID.
 
-## How the bot uses this page
+## How to use this page (people)
 
-- Read this page first. The version line above is the pack version; there is no other version history, so a new version gets a new version line here and on the top page.
-- Every page the bot uses must appear in the tables below with the same title and page ID. A saved copy of a page counts as complete only if it contains the words in "Page ends with". If a page is missing, renamed, unreachable or only partly readable, the bot does not improvise its content: it tells the learner that part of the course is temporarily unavailable and continues with what is available (13.11 Gates §10).
-- A saved copy of a page may be reused while this page still shows the same version. When the version changes, the bot fetches the pages again.
+- This page is the human-readable list of the pack. Bots do not read Notion: they read <code>manifest.json</code> on GitHub (version, release tag, and for every file its tag-pinned raw link and SHA-256) and check each downloaded file against its SHA-256. The version line above matches the manifest's version.
+- A downloaded file counts as complete only if its SHA-256 matches the manifest (one retry). "Page ends with" below is a reading aid for people checking a page. If a file is missing or fails its check, the bot does not improvise its content: it tells the learner that part of the course is temporarily unavailable and continues with what is available (13.11 Gates §10).
+- A saved copy may be reused while the manifest shows the same version and tag. When either changes, the bot downloads the changed files from the new tag and checks them again.
 - The learner's own progress is never stored here; it lives in the progress file on the bot's computer, <code>/workspace/spanish-teacher/progress.md</code> (13.11).
 
 ## Top level
 
 | # | Page | Page ID | Public link | Page ends with |
 | --- | --- | --- | --- | --- |
-| 0 | Index and manifest (v1) | 4011414f7879815aaaf3f02b2d2b5708 | [https://ringed-sombrero-50c.notion.site/4011414f7879815aaaf3f02b2d2b5708](https://ringed-sombrero-50c.notion.site/4011414f7879815aaaf3f02b2d2b5708) | 4011414f787981bc8527dc8e7df46817 |
-| 1 | Spanish Teacher — Course Pack (v1) | 4011414f7879816f8df2c37420a9d85f | [https://ringed-sombrero-50c.notion.site/4011414f7879816f8df2c37420a9d85f](https://ringed-sombrero-50c.notion.site/4011414f7879816f8df2c37420a9d85f) | Index and manifest (v1) |
+| 0 | Index and manifest (v1.1) | 4011414f7879815aaaf3f02b2d2b5708 | [https://ringed-sombrero-50c.notion.site/4011414f7879815aaaf3f02b2d2b5708](https://ringed-sombrero-50c.notion.site/4011414f7879815aaaf3f02b2d2b5708) | 4011414f787981bc8527dc8e7df46817 |
+| 1 | Spanish Teacher — Course Pack (v1.1) | 4011414f7879816f8df2c37420a9d85f | [https://ringed-sombrero-50c.notion.site/4011414f7879816f8df2c37420a9d85f](https://ringed-sombrero-50c.notion.site/4011414f7879816f8df2c37420a9d85f) | Index and manifest (v1.1) |
 | 2 | Learning plan overview | 4011414f787981749229e0aa9bf72870 | [https://ringed-sombrero-50c.notion.site/4011414f787981749229e0aa9bf72870](https://ringed-sombrero-50c.notion.site/4011414f787981749229e0aa9bf72870) | the bot never announces it earlier |
 | 3 | Course rules (13.1–13.11) | 4011414f78798179ad96c6da09f4d538 | [https://ringed-sombrero-50c.notion.site/4011414f78798179ad96c6da09f4d538](https://ringed-sombrero-50c.notion.site/4011414f78798179ad96c6da09f4d538) | 13.11 Progress tracking |
 | 4 | 13.12 Topic materials | 4011414f787981e1a226cb23234695ab | [https://ringed-sombrero-50c.notion.site/4011414f787981e1a226cb23234695ab](https://ringed-sombrero-50c.notion.site/4011414f787981e1a226cb23234695ab) | C1.4-12 Dele que DELE. El humor. El DELE C1 |
@@ -36,7 +36,7 @@ This page is the manifest of the Spanish Teacher Course Pack. Course Pack versio
 | 8 | 13.8 Teaching notes | 4011414f7879810ba6fdc7637d8afc5c | [https://ringed-sombrero-50c.notion.site/4011414f7879810ba6fdc7637d8afc5c](https://ringed-sombrero-50c.notion.site/4011414f7879810ba6fdc7637d8afc5c) | and reported for feedback only (13.9) |
 | 9 | 13.9 Rubrics | 4011414f787981bcb7caf4a7ce96547b | [https://ringed-sombrero-50c.notion.site/4011414f787981bcb7caf4a7ce96547b](https://ringed-sombrero-50c.notion.site/4011414f787981bcb7caf4a7ce96547b) | or graduation without them is invalid |
 | 10 | 13.10 Spaced review schedule | 4011414f7879819a9571c01e2f9f7930 | [https://ringed-sombrero-50c.notion.site/4011414f7879819a9571c01e2f9f7930](https://ringed-sombrero-50c.notion.site/4011414f7879819a9571c01e2f9f7930) | into the queue at step 1 |
-| 11 | 13.11 Progress tracking | 4011414f7879816ca324c31b5ce44d8f | [https://ringed-sombrero-50c.notion.site/4011414f7879816ca324c31b5ce44d8f](https://ringed-sombrero-50c.notion.site/4011414f7879816ca324c31b5ce44d8f) | in the weekly and monthly summaries |
+| 11 | 13.11 Progress tracking | 4011414f7879816ca324c31b5ce44d8f | [https://ringed-sombrero-50c.notion.site/4011414f7879816ca324c31b5ce44d8f](https://ringed-sombrero-50c.notion.site/4011414f7879816ca324c31b5ce44d8f) | Both appear in the weekly summary |
 
 ## 13.12 Topic materials (48 topics)
 

@@ -2,7 +2,7 @@
 
 Neutral Latin American Spanish course materials from A1 to C1. Topic pages ship Forms A–D plus exam papers for the Spanish Teacher bot to load over `raw.githubusercontent.com`.
 
-**Version:** v1 (2026-10-22)
+**Version:** v1.1 (2026-10-22). Changes from v1: the index page describes the manifest + SHA-256 checks; no monthly routine or check; no time range shown to learners; "Plan %" is now "Overall %".
 
 ## How a bot should load this pack
 
@@ -28,4 +28,6 @@ https://ringed-sombrero-50c.notion.site/4011414f7879816f8df2c37420a9d85f
 
 ## Licence
 
-Licence not yet chosen. All rights reserved until then.
+All rights reserved; free to use with the Spanish Teacher bot.
+
+_(Placeholder licence line, pending the owner's final choice.)_
