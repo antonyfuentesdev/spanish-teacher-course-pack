@@ -1,5 +1,7 @@
 <b>Course Pack version: v1</b> · Oct 22, 2026 · 73 pages in total (this index included) · 48 topics · 8 exam pages · 11 course rules pages
 
+Bots load this pack from GitHub: https://github.com/antonyfuentesdev/spanish-teacher-course-pack (manifest: https://raw.githubusercontent.com/antonyfuentesdev/spanish-teacher-course-pack/main/manifest.json). Files are verified by SHA-256.
+
 This page is the manifest of the Spanish Teacher Course Pack. Course Pack version: v1. It lists every page in the pack with its page ID, public link and the words its page ends with. Public address of any page: <code>https://ringed-sombrero-50c.notion.site/</code> followed by its page ID.
 
 ## How the bot uses this page
