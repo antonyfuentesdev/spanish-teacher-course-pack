@@ -1,8 +1,8 @@
-<b>Course Pack version: v1.3</b> · Oct 22, 2026 · 72 files in total (this index included) · 48 topics · 8 exam pages · 11 course rules pages
+<b>Course Pack version: v1.4</b> · Oct 22, 2026 · 72 files in total (this index included) · 48 topics · 8 exam pages · 11 course rules pages
 
 This pack lives only on GitHub: https://github.com/antonyfuentesdev/spanish-teacher-course-pack (manifest: https://raw.githubusercontent.com/antonyfuentesdev/spanish-teacher-course-pack/main/manifest.json). Files are verified by SHA-256. Licence: CC BY-NC 4.0 (see LICENSE).
 
-This page is the human-readable list of the Spanish Teacher Course Pack. Course Pack version: v1.3. It lists every file in the pack with its repo path and the words it ends with.
+This page is the human-readable list of the Spanish Teacher Course Pack. Course Pack version: v1.4. It lists every file in the pack with its repo path and the words it ends with.
 
 ## How to use this page (people)
 
@@ -15,7 +15,7 @@ This page is the human-readable list of the Spanish Teacher Course Pack. Course 
 
 | # | Page | File | Ends with |
 | --- | --- | --- | --- |
-| 0 | Index and manifest (v1.3) | <code>pages/00-index-manifest.md</code> | (this page) |
+| 0 | Index and manifest (v1.4) | <code>pages/00-index-manifest.md</code> | (this page) |
 | 1 | Learning plan overview | <code>pages/01-learning-plan-overview.md</code> | the bot never announces it earlier |
 | 2 | Course rules (13.1–13.11) | <code>containers/rules.md</code> | 13.11 Progress tracking |
 | 3 | 13.12 Topic materials | <code>containers/topics.md</code> | C1.4-12 Dele que DELE. El humor. El DELE C1 |

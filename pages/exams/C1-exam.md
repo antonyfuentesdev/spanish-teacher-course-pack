@@ -239,7 +239,7 @@ Puntos: qué se propone y cómo funcionaría; la razón y el dato; cómo se comu
 5. Cuéntame una norma que te pareció injusta y que luego entendiste.
 6. ¿Es posible educar sin prohibir?
 
-<b>Tarea 3 — Simulación.</b> Tarjeta: "Eres inquilino. El propietario (el bot) quiere subir el alquiler un 15 %. Llevas cinco años en el apartamento, siempre has pagado puntualmente y has hecho mejoras por tu cuenta. Negocia con cortesía." Bot (propietario, usted), turnos fijos: "Le llamo porque, como sabe, los precios de la zona han subido mucho." → "Un 15 % es lo que están pidiendo los apartamentos similares." → "Las mejoras que hizo fueron decisión suya." → "¿Y qué me ofrece usted?" → "Bueno, déjeme pensarlo. ¿Me lo envía por escrito?"
+<b>Tarea 3 — Simulación.</b> Tarjeta: "Eres inquilino. El propietario (el bot) quiere subir el alquiler un 15 %. Llevas cinco años en el apartamento, siempre has pagado puntualmente y has hecho mejoras por tu cuenta. Negocia con cortesía." Bot (propietario, usted), turnos fijos: "Me comunico con usted porque, como sabe, los precios de la zona han subido mucho." → "Un 15 % es lo que están pidiendo los apartamentos similares." → "Las mejoras que hizo fueron decisión suya." → "¿Y qué me ofrece usted?" → "Bueno, déjeme pensarlo. ¿Me lo envía por escrito?"
 Puntos: registro formal y suavizado, reconoce la posición del otro, argumenta con hechos, propone una cifra o condiciones (contrato más largo, aumento escalonado), cierra con próximos pasos.
 
 ### Comprensión de lectura (25 puntos, 55 min)
